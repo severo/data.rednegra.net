@@ -2,7 +2,7 @@
 layout: post
 title: D004 - Bolivian IPv4 prefixes
 description: List of IPv4 prefixes for Bolivia
-date: 2018-10-28 8:00:00 -0400
+date: 2018-10-28 8:00:02 -0400
 ---
 
 The list of IPv4 prefixes assigned by LACNIC for Bolivia at 28 Oct 2018.
