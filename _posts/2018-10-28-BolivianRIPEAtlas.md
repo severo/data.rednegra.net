@@ -9,5 +9,5 @@ The list of RIPE Atlas probes in Bolivia at 28 Oct 2018 (source: [RIPE Atlas](ht
 
 |          |                                                  |
 | -------- | ------------------------------------------------ |
-| Copy URL | `{{ 'data/D006/bo_probes.json | absolute_url }}` |
+| Copy URL | `{{ 'data/D006/bo_probes.json' | absolute_url }}` |
 | Download | [JSON]({{ 'data/D005/bo_probes.json'             | relative_url }}) |
