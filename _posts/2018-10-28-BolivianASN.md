@@ -9,11 +9,11 @@ The list of autonomous systems numbers for Bolivia at 28 Oct 2018 (source: [cc2a
 
 |          |                                               |
 | -------- | --------------------------------------------- |
-| Copy URL | `{{ 'data/D002.bo_asn.txt' | absolute_url }}` |
-| Download | [TXT]({{ 'data/D002.bo_asn.txt'               | relative_url }}) |
+| Copy URL | `{{ 'data/D002/bo_asn.txt' | absolute_url }}` |
+| Download | [TXT]({{ 'data/D002/bo_asn.txt'               | relative_url }}) |
 
 The details of every ASN in JSON format (source: [LACNIC registry](https://rdap-web.lacnic.net/), 20181028)
 
 |          |                                                                        |
 | -------- | ---------------------------------------------------------------------- |
-| Copy URL | `{{ 'data/D002.ASxxxx.json' | absolute_url }}` (replace `xxxx` by ASN) |
+| Copy URL | `{{ 'data/D002/ASxxxx.json' | absolute_url }}` (replace `xxxx` by ASN) |
