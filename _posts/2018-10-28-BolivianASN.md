@@ -14,7 +14,6 @@ The list of autonomous systems numbers for Bolivia at 28 Oct 2018 (source: [cc2a
 
 The details of every ASN in JSON format (source: [LACNIC registry](https://rdap-web.lacnic.net/), 20181028)
 
-|          |                                                |
-| -------- | ---------------------------------------------- |
-| Copy URL | `{{ 'data/D002.AS6568.json' | absolute_url }}` |
-| Download | [JSON]({{ 'data/D002.AS6568.json'              | relative_url }}) |
+|          |                                                                             |
+| -------- | --------------------------------------------------------------------------- |
+| Copy URL | `{{ 'data/D002.[ASxxxx].json' | absolute_url }}` (replace `[ASxxxx]` by ASN |
