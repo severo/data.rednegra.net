@@ -1,0 +1,254 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-BNBO1-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "BANCO NACIONAL DE BOLIVIA S.A."
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "camacho esquina colon, edificio BNB, piso 3 3 La Paz BO ",
+          "La Paz",
+          "LP",
+          "3929",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591 2 2621989"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "190.129.76.192/26",
+  "startAddress": "190.129.76.192",
+  "endAddress": "190.129.76.255",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-01-05T01:43:52Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-01-05T01:43:52Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/190.129.76.192/26",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/190.129.76.192/26"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "190.129.67.48/28",
+  "startAddress": "190.129.67.48",
+  "endAddress": "190.129.67.63",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-01-05T01:45:14Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-01-05T01:45:14Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/190.129.67.48/28",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/190.129.67.48/28"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "200.105.136.64/26",
+  "startAddress": "200.105.136.64",
+  "endAddress": "200.105.136.127",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-01-11T01:22:30Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-01-11T01:22:30Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/200.105.136.64/26",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/200.105.136.64/26"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2801:19:d000::/48",
+  "startAddress": "2801:19:d000::",
+  "endAddress": "2801:19:d000:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-03-09T20:43:45Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-03-09T20:43:45Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2801:19:d000::/48",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2801:19:d000::/48"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "45.5.13.0/24",
+  "startAddress": "45.5.13.0",
+  "endAddress": "45.5.13.255",
+  "ipVersion": "v4",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-03-09T20:46:49Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-03-09T20:46:49Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/45.5.13.0/24",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/45.5.13.0/24"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "265670",       "events": [         {           "eventAction": "registration",           "eventDate": "2017-03-09T20:47:10Z"         },         {           "eventAction": "last changed",           "eventDate": "2017-03-09T20:47:10Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/265670",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/265670"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "LZF2",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/LZF2",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/LZF2"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2016-12-19T17:37:40Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-25T20:58:41Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-BNBO1-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-BNBO1-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-BNBO1-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

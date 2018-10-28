@@ -1,0 +1,176 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-ABES-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "AGENCIA BOLIVIANA ESPACIAL"
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "Piso 1",
+          "Calacoto, Calle 14 8194",
+          "La Paz",
+          "LP",
+          "",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591 2 2141110"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "168.197.240.0/22",
+  "startAddress": "168.197.240.0",
+  "endAddress": "168.197.243.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2016-10-04T23:36:48Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-01-09T17:28:31Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/168.197.240.0/22",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/168.197.240.0/22"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2803:38c0::/32",
+  "startAddress": "2803:38c0::",
+  "endAddress": "2803:38c0:ffff:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2016-10-04T23:44:32Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-01-09T17:28:45Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2803:38c0::/32",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2803:38c0::/32"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "264789",       "events": [         {           "eventAction": "registration",           "eventDate": "2016-10-04T23:41:34Z"         },         {           "eventAction": "last changed",           "eventDate": "2017-01-09T17:33:26Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/264789",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/264789"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "SAG27",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/SAG27",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/SAG27"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2016-08-03T23:20:40Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-01-29T21:30:53Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-ABES-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-ABES-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-ABES-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

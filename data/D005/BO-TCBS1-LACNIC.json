@@ -1,0 +1,254 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-TCBS1-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "Telefónica Celular de Bolivia S.A."
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "-",
+          "Viedma 648",
+          "Santa Cruz",
+          "SC",
+          "33",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "59  1800178000/0000"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "200.73.96.0/21",
+  "startAddress": "200.73.96.0",
+  "endAddress": "200.73.103.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2007-02-15T14:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2013-01-09T16:16:44Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/200.73.96.0/21",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/200.73.96.0/21"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "181.114.96.0/19",
+  "startAddress": "181.114.96.0",
+  "endAddress": "181.114.127.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2013-02-21T19:30:12Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2013-07-09T23:43:34Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/181.114.96.0/19",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/181.114.96.0/19"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "190.104.0.0/19",
+  "startAddress": "190.104.0.0",
+  "endAddress": "190.104.31.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2008-05-13T22:27:13Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2013-01-09T16:16:29Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/190.104.0.0/19",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/190.104.0.0/19"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2800:320::/32",
+  "startAddress": "2800:320::",
+  "endAddress": "2800:320:ffff:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2009-03-16T23:03:07Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2013-01-09T16:16:53Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2800:320::/32",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2800:320::/32"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "181.188.128.0/18",
+  "startAddress": "181.188.128.0",
+  "endAddress": "181.188.191.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2013-11-05T18:53:24Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2014-05-15T16:37:30Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/181.188.128.0/18",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/181.188.128.0/18"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "27882",       "events": [         {           "eventAction": "registration",           "eventDate": "2007-02-15T14:00:00Z"         },         {           "eventAction": "last changed",           "eventDate": "2013-01-09T16:16:12Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/27882",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/27882"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "NEF4",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/NEF4",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/NEF4"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2007-02-02T14:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-12-08T23:27:09Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-TCBS1-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-TCBS1-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-TCBS1-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

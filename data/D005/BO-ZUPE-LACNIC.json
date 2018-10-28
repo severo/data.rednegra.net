@@ -1,0 +1,115 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-ZUPE-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "Zupernet"
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "Av. Bush 123\nSanta Cruz,",
+          "",
+          "",
+          "",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        ""
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {}
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "11585",       "events": [         {           "eventAction": "registration",           "eventDate": "1998-10-14T15:00:00Z"         },         {           "eventAction": "last changed",           "eventDate": "2006-08-15T15:00:00Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/11585",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/11585"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "BR78-ARIN",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BR78-ARIN",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/BR78-ARIN"
+        }
+      ]
+    }
+  ],
+  
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-ZUPE-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-ZUPE-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-ZUPE-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

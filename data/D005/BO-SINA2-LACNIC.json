@@ -1,0 +1,228 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-SINA2-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "Servicio de Impuestos Nacionales"
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "Ballivian esq. Loayza 1333 La Paz BO 1333",
+          "La Paz",
+          "BO",
+          "4450",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591 2 2606300/00"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "2801:18:d000::/48",
+  "startAddress": "2801:18:d000::",
+  "endAddress": "2801:18:d000:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-01-17T16:21:23Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-01-17T16:21:23Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2801:18:d000::/48",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2801:18:d000::/48"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "170.82.244.0/23",
+  "startAddress": "170.82.244.0",
+  "endAddress": "170.82.245.255",
+  "ipVersion": "v4",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-01-17T16:24:06Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-01-17T16:24:06Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/170.82.244.0/23",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/170.82.244.0/23"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "190.129.75.128/26",
+  "startAddress": "190.129.75.128",
+  "endAddress": "190.129.75.191",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2016-11-14T19:12:56Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2016-11-14T19:12:56Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/190.129.75.128/26",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/190.129.75.128/26"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "190.181.41.0/26",
+  "startAddress": "190.181.41.0",
+  "endAddress": "190.181.41.63",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2016-12-21T08:00:40Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2016-12-21T08:00:40Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/190.181.41.0/26",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/190.181.41.0/26"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "264858",       "events": [         {           "eventAction": "registration",           "eventDate": "2017-01-20T18:29:59Z"         },         {           "eventAction": "last changed",           "eventDate": "2017-01-20T18:29:59Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/264858",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/264858"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "GOR15",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/GOR15",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/GOR15"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2016-11-14T19:12:48Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-25T20:58:32Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-SINA2-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-SINA2-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-SINA2-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

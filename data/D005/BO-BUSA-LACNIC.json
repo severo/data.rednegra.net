@@ -1,0 +1,280 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-BUSA-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "BANCO UNIÓN S.A."
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "Calle Reyes Ortis, Edificio Gundlach Torre Este 73 La Paz BO ",
+          "La Paz",
+          "LP",
+          "",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591 2 2171717"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "45.236.192.0/22",
+  "startAddress": "45.236.192.0",
+  "endAddress": "45.236.195.255",
+  "ipVersion": "v4",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2018-05-17T21:28:46Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-05-17T21:28:46Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/45.236.192.0/22",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/45.236.192.0/22"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2801:17:7000::/48",
+  "startAddress": "2801:17:7000::",
+  "endAddress": "2801:17:7000:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2018-05-17T21:48:20Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-05-17T21:48:20Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2801:17:7000::/48",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2801:17:7000::/48"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "190.129.76.80/28",
+  "startAddress": "190.129.76.80",
+  "endAddress": "190.129.76.95",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-10-26T00:36:02Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-26T00:36:02Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/190.129.76.80/28",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/190.129.76.80/28"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "200.87.194.32/28",
+  "startAddress": "200.87.194.32",
+  "endAddress": "200.87.194.47",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-10-26T00:37:28Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-26T00:37:28Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/200.87.194.32/28",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/200.87.194.32/28"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "181.188.157.32/27",
+  "startAddress": "181.188.157.32",
+  "endAddress": "181.188.157.63",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-11-13T18:41:19Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-11-13T18:41:19Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/181.188.157.32/27",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/181.188.157.32/27"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "181.188.189.192/27",
+  "startAddress": "181.188.189.192",
+  "endAddress": "181.188.189.223",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-11-13T18:44:43Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-11-13T18:44:43Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/181.188.189.192/27",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/181.188.189.192/27"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "266804",       "events": [         {           "eventAction": "registration",           "eventDate": "2018-05-17T21:58:24Z"         },         {           "eventAction": "last changed",           "eventDate": "2018-05-17T21:58:24Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/266804",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/266804"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "CEB47",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/CEB47",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/CEB47"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2017-10-25T19:17:28Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-05-18T06:21:47Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-BUSA-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-BUSA-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-BUSA-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

@@ -1,0 +1,345 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-DTCE1-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "Digital TV CABLE DE EDMUND S.R.L."
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "Romulo Gomez 95",
+          "Santa Cruz de la Sierra",
+          "SC",
+          "",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591 3 3115555"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "200.87.194.72/29",
+  "startAddress": "200.87.194.72",
+  "endAddress": "200.87.194.79",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2010-10-20T16:06:03Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2010-10-20T16:06:03Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/200.87.194.72/29",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/200.87.194.72/29"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "190.211.224.0/20",
+  "startAddress": "190.211.224.0",
+  "endAddress": "190.211.239.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2010-10-26T14:35:24Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2013-09-17T15:31:22Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/190.211.224.0/20",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/190.211.224.0/20"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "168.228.132.0/22",
+  "startAddress": "168.228.132.0",
+  "endAddress": "168.228.135.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2016-04-05T16:03:06Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2016-04-05T16:03:06Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/168.228.132.0/22",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/168.228.132.0/22"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "143.137.112.0/22",
+  "startAddress": "143.137.112.0",
+  "endAddress": "143.137.115.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2015-10-05T22:22:26Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2015-10-05T22:22:26Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/143.137.112.0/22",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/143.137.112.0/22"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "170.239.120.0/22",
+  "startAddress": "170.239.120.0",
+  "endAddress": "170.239.123.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2016-11-03T22:20:02Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2016-11-03T22:20:02Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/170.239.120.0/22",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/170.239.120.0/22"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "179.60.112.0/20",
+  "startAddress": "179.60.112.0",
+  "endAddress": "179.60.127.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2013-09-25T16:19:33Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2013-09-25T16:19:33Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/179.60.112.0/20",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/179.60.112.0/20"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2803:2880::/32",
+  "startAddress": "2803:2880::",
+  "endAddress": "2803:2880:ffff:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2013-09-25T16:24:40Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2013-09-25T16:24:40Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2803:2880::/32",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2803:2880::/32"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "138.36.76.0/22",
+  "startAddress": "138.36.76.0",
+  "endAddress": "138.36.79.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2015-01-27T20:07:45Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2015-01-27T20:07:45Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/138.36.76.0/22",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/138.36.76.0/22"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "262159",       "events": [         {           "eventAction": "registration",           "eventDate": "2011-04-14T23:27:39Z"         },         {           "eventAction": "last changed",           "eventDate": "2013-09-17T16:25:32Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/262159",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/262159"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "DAG48",
+      "roles": [
+        "administrative"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/DAG48",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/DAG48"
+        }
+      ]
+    },     {
+      "objectClassName": "entity",
+      "handle": "DAG48",
+      "roles": [
+        "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/DAG48",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/DAG48"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2010-10-20T16:04:57Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-25T20:45:40Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-DTCE1-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-DTCE1-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-DTCE1-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

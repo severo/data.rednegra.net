@@ -1,0 +1,176 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-ICBS-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "INVERSIONES CREDICORP BOLIVIA S.A."
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "Av. Hernando esquina Calle 10 20 ",
+          "La Paz",
+          "",
+          "",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591 2 2175516"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "45.232.46.0/23",
+  "startAddress": "45.232.46.0",
+  "endAddress": "45.232.47.255",
+  "ipVersion": "v4",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2018-02-28T23:58:34Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-02-28T23:58:34Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/45.232.46.0/23",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/45.232.46.0/23"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2801:1a:7000::/48",
+  "startAddress": "2801:1a:7000::",
+  "endAddress": "2801:1a:7000:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2018-03-01T00:11:44Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-03-01T00:11:44Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2801:1a:7000::/48",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2801:1a:7000::/48"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "266745",       "events": [         {           "eventAction": "registration",           "eventDate": "2018-03-01T00:02:28Z"         },         {           "eventAction": "last changed",           "eventDate": "2018-03-01T00:02:28Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/266745",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/266745"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "REG35",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/REG35",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/REG35"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2018-01-23T19:22:18Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-03-01T06:22:26Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-ICBS-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-ICBS-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-ICBS-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

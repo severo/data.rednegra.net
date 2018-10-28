@@ -1,0 +1,176 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-BOSR5-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "BOLITEL SRL"
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "Mercado 81",
+          "Santa Cruz",
+          "",
+          "--",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591  69200000"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "131.100.200.0/22",
+  "startAddress": "131.100.200.0",
+  "endAddress": "131.100.203.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2014-09-01T22:24:08Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2014-09-01T22:24:08Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/131.100.200.0/22",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/131.100.200.0/22"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2803:4380::/32",
+  "startAddress": "2803:4380::",
+  "endAddress": "2803:4380:ffff:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2014-09-01T22:25:59Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2014-09-01T22:25:59Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2803:4380::/32",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2803:4380::/32"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "61488",       "events": [         {           "eventAction": "registration",           "eventDate": "2014-09-01T22:27:31Z"         },         {           "eventAction": "last changed",           "eventDate": "2014-09-01T22:27:31Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/61488",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/61488"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "ETA",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/ETA",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/ETA"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2014-08-21T16:22:20Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-25T20:55:40Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-BOSR5-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-BOSR5-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-BOSR5-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

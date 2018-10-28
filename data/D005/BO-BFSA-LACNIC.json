@@ -1,0 +1,228 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-BFSA-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "BANCO PARA EL FOMENTO A INICIATIVAS ECONOMICAS S.A."
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "Colombia 578 La Paz BO ",
+          "La Paz",
+          "MU",
+          "",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591 2 2173600"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "181.114.118.192/28",
+  "startAddress": "181.114.118.192",
+  "endAddress": "181.114.118.207",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-11-21T00:10:49Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-11-21T00:10:49Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/181.114.118.192/28",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/181.114.118.192/28"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "45.229.244.0/23",
+  "startAddress": "45.229.244.0",
+  "endAddress": "45.229.245.255",
+  "ipVersion": "v4",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2018-02-05T18:56:43Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-02-05T18:56:43Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/45.229.244.0/23",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/45.229.244.0/23"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "45.229.195.0/24",
+  "startAddress": "45.229.195.0",
+  "endAddress": "45.229.195.255",
+  "ipVersion": "v4",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2018-02-05T19:03:08Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-02-05T19:03:08Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/45.229.195.0/24",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/45.229.195.0/24"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2801:18:7000::/48",
+  "startAddress": "2801:18:7000::",
+  "endAddress": "2801:18:7000:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2018-02-05T19:10:03Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-02-05T19:10:03Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2801:18:7000::/48",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2801:18:7000::/48"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "266723",       "events": [         {           "eventAction": "registration",           "eventDate": "2018-02-05T19:11:52Z"         },         {           "eventAction": "last changed",           "eventDate": "2018-02-05T19:11:52Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/266723",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/266723"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "RUM21",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/RUM21",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/RUM21"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2017-10-27T17:11:52Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-02-06T05:23:01Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-BFSA-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-BFSA-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-BFSA-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

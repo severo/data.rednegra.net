@@ -1,0 +1,228 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-DIWO-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "DIGITAL WORK"
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "Av. Montenegro 905",
+          "La Paz",
+          "",
+          "--",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591  2117379"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "2803:1180::/32",
+  "startAddress": "2803:1180::",
+  "endAddress": "2803:1180:ffff:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2014-05-30T17:08:57Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2014-05-30T17:08:57Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2803:1180::/32",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2803:1180::/32"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "200.12.248.0/21",
+  "startAddress": "200.12.248.0",
+  "endAddress": "200.12.255.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2014-05-30T17:11:24Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2014-05-30T17:11:24Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/200.12.248.0/21",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/200.12.248.0/21"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "190.104.31.160/30",
+  "startAddress": "190.104.31.160",
+  "endAddress": "190.104.31.163",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2015-11-25T21:09:33Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2015-11-25T21:09:33Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/190.104.31.160/30",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/190.104.31.160/30"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "190.104.31.164/30",
+  "startAddress": "190.104.31.164",
+  "endAddress": "190.104.31.167",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2015-11-25T21:09:49Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2015-11-25T21:09:49Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/190.104.31.164/30",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/190.104.31.164/30"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "263242",       "events": [         {           "eventAction": "registration",           "eventDate": "2014-05-30T17:13:46Z"         },         {           "eventAction": "last changed",           "eventDate": "2014-05-30T17:13:46Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/263242",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/263242"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "ROM122",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/ROM122",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/ROM122"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2014-05-05T19:26:17Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-25T20:55:19Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-DIWO-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-DIWO-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-DIWO-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

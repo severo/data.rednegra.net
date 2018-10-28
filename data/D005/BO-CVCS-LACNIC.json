@@ -1,0 +1,176 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-CVCS-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "CORPORACION VISTA COBIJA S.R.L."
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "25 Cota Cota 100 La Paz BO ",
+          "La Paz",
+          "MU",
+          "",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591 2 22111705"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "45.226.32.0/22",
+  "startAddress": "45.226.32.0",
+  "endAddress": "45.226.35.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-11-20T19:38:43Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-11-20T19:38:43Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/45.226.32.0/22",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/45.226.32.0/22"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2803:3e20::/32",
+  "startAddress": "2803:3e20::",
+  "endAddress": "2803:3e20:ffff:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-11-20T19:42:09Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-11-20T19:42:09Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2803:3e20::/32",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2803:3e20::/32"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "265880",       "events": [         {           "eventAction": "registration",           "eventDate": "2017-11-20T19:50:05Z"         },         {           "eventAction": "last changed",           "eventDate": "2017-11-21T05:21:13Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/265880",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/265880"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "ROC154",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/ROC154",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/ROC154"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2017-11-06T17:03:27Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-11-21T05:21:13Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-CVCS-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-CVCS-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-CVCS-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

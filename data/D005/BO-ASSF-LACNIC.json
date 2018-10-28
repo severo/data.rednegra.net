@@ -1,0 +1,202 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-ASSF-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "AUTORIDAD DE SUPERVISIÓN DEL SISTEMA FINANCIERO (ASFI)"
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "Plaza Isabel La Cat&#243;lica 2507 ",
+          "La Paz",
+          "",
+          "",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591  2174444/1638"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "186.121.204.16/28",
+  "startAddress": "186.121.204.16",
+  "endAddress": "186.121.204.31",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-06-27T04:07:55Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-06-27T04:07:55Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/186.121.204.16/28",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/186.121.204.16/28"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "181.191.68.0/22",
+  "startAddress": "181.191.68.0",
+  "endAddress": "181.191.71.255",
+  "ipVersion": "v4",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-07-31T16:14:20Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-07-31T16:14:20Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/181.191.68.0/22",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/181.191.68.0/22"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2801:13:3000::/48",
+  "startAddress": "2801:13:3000::",
+  "endAddress": "2801:13:3000:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-07-31T16:38:58Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-07-31T16:38:58Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2801:13:3000::/48",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2801:13:3000::/48"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "265779",       "events": [         {           "eventAction": "registration",           "eventDate": "2017-07-31T16:58:48Z"         },         {           "eventAction": "last changed",           "eventDate": "2017-07-31T16:58:48Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/265779",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/265779"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "RYA4",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/RYA4",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/RYA4"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2017-01-10T18:54:22Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-25T20:58:48Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-ASSF-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-ASSF-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-ASSF-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

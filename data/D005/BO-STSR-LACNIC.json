@@ -1,0 +1,202 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-STSR-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "SIRIO TELECOMUNICACIONES S.R.L"
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "Av. Busch 1180 La Paz ",
+          "La Paz",
+          "",
+          "",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591  78997165"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "45.163.18.0/23",
+  "startAddress": "45.163.18.0",
+  "endAddress": "45.163.19.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2018-09-26T20:07:48Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-09-26T20:07:48Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/45.163.18.0/23",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/45.163.18.0/23"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "160.20.225.0/24",
+  "startAddress": "160.20.225.0",
+  "endAddress": "160.20.225.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2018-09-26T20:09:06Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-09-26T20:09:06Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/160.20.225.0/24",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/160.20.225.0/24"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2803:3ea0::/32",
+  "startAddress": "2803:3ea0::",
+  "endAddress": "2803:3ea0:ffff:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2018-09-26T20:30:55Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-09-26T20:30:55Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2803:3ea0::/32",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2803:3ea0::/32"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "267685",       "events": [         {           "eventAction": "registration",           "eventDate": "2018-09-26T20:41:40Z"         },         {           "eventAction": "last changed",           "eventDate": "2018-09-27T06:23:37Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/267685",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/267685"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "JCM100",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/JCM100",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/JCM100"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2018-07-24T19:08:27Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-09-27T06:23:37Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-STSR-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-STSR-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-STSR-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

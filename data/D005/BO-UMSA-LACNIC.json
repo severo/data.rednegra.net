@@ -1,0 +1,176 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-UMSA-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "UNIVERSIDAD MAYOR DE SAN ANDRES"
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "UMSATIC",
+          "Av. 6 de Agosto - Edif. Hoy, Piso 3 -",
+          "Bolivia",
+          "BO",
+          "0000",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591 2 2442464/104"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "200.7.160.0/20",
+  "startAddress": "200.7.160.0",
+  "endAddress": "200.7.175.255",
+  "ipVersion": "v4",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2006-03-07T14:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2015-03-25T22:21:49Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/200.7.160.0/20",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/200.7.160.0/20"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2801:104::/40",
+  "startAddress": "2801:104::",
+  "endAddress": "2801:104:ff:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2016-11-15T20:26:51Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2016-11-15T20:26:51Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2801:104::/40",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2801:104::/40"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "27828",       "events": [         {           "eventAction": "registration",           "eventDate": "2006-05-31T15:00:00Z"         },         {           "eventAction": "last changed",           "eventDate": "2015-03-25T22:22:34Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/27828",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/27828"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "UMA2",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/UMA2",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/UMA2"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2005-12-22T14:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-25T20:43:25Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-UMSA-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-UMSA-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-UMSA-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

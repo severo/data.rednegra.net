@@ -1,0 +1,228 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-COLT4-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "COTES Ltda."
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "Urcullo 182",
+          "Sucre",
+          "Ch",
+          "281",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "59 14 6425000"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "200.107.240.0/21",
+  "startAddress": "200.107.240.0",
+  "endAddress": "200.107.247.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2007-09-18T15:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2007-09-18T15:00:00Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/200.107.240.0/21",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/200.107.240.0/21"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "170.247.160.0/22",
+  "startAddress": "170.247.160.0",
+  "endAddress": "170.247.163.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-03-03T18:26:53Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-03-03T18:26:53Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/170.247.160.0/22",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/170.247.160.0/22"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2803:8ec0::/32",
+  "startAddress": "2803:8ec0::",
+  "endAddress": "2803:8ec0:ffff:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-03-03T18:33:28Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-03-03T18:33:28Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2803:8ec0::/32",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2803:8ec0::/32"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "190.52.48.0/21",
+  "startAddress": "190.52.48.0",
+  "endAddress": "190.52.55.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2011-03-10T15:34:29Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2011-03-10T15:34:29Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/190.52.48.0/21",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/190.52.48.0/21"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "262161",       "events": [         {           "eventAction": "registration",           "eventDate": "2011-03-01T20:23:51Z"         },         {           "eventAction": "last changed",           "eventDate": "2011-03-01T20:23:51Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/262161",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/262161"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "OSG3",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/OSG3",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/OSG3"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2007-07-31T15:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2018-02-27T00:57:11Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-COLT4-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-COLT4-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-COLT4-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

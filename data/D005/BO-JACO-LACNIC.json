@@ -1,0 +1,254 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-JACO-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "Jalasoft Corp."
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "Melchor Perez de Olguin Ave. 2643",
+          "Cochabamba",
+          "CB",
+          "",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591 4 4308282/157"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "200.87.166.0/28",
+  "startAddress": "200.87.166.0",
+  "endAddress": "200.87.166.15",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2011-09-08T18:55:49Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2011-09-08T18:55:49Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/200.87.166.0/28",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/200.87.166.0/28"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "200.106.244.0/23",
+  "startAddress": "200.106.244.0",
+  "endAddress": "200.106.245.255",
+  "ipVersion": "v4",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2011-09-16T19:51:23Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2011-09-16T19:51:23Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/200.106.244.0/23",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/200.106.244.0/23"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2801:0:170::/48",
+  "startAddress": "2801:0:170::",
+  "endAddress": "2801:0:170:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2011-09-16T20:00:12Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2011-09-16T20:00:12Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2801:0:170::/48",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2801:0:170::/48"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "201.222.84.56/29",
+  "startAddress": "201.222.84.56",
+  "endAddress": "201.222.84.63",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2011-08-25T15:20:41Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2011-09-01T22:02:08Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/201.222.84.56/29",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/201.222.84.56/29"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "201.222.84.88/29",
+  "startAddress": "201.222.84.88",
+  "endAddress": "201.222.84.95",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2011-08-25T15:24:21Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2011-09-01T22:02:33Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/201.222.84.88/29",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/201.222.84.88/29"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "52355",       "events": [         {           "eventAction": "registration",           "eventDate": "2011-12-06T17:50:21Z"         },         {           "eventAction": "last changed",           "eventDate": "2011-12-06T17:50:21Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/52355",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/52355"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "GPO",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/GPO",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/GPO"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2010-07-14T22:28:09Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-25T20:45:29Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-JACO-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-JACO-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-JACO-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

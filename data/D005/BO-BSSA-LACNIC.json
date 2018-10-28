@@ -1,0 +1,176 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-BSSA-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "BANCO SOLIDARIO S.A."
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "NICOLAS ACOSTA Y CA&#209;ADA STRONGEST 289",
+          "LA PAZ",
+          "",
+          "",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591 2 2176922"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "200.10.156.0/23",
+  "startAddress": "200.10.156.0",
+  "endAddress": "200.10.157.255",
+  "ipVersion": "v4",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2016-04-06T21:30:06Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-07-31T20:14:09Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/200.10.156.0/23",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/200.10.156.0/23"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2801:16:9000::/48",
+  "startAddress": "2801:16:9000::",
+  "endAddress": "2801:16:9000:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2016-04-06T21:42:51Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2016-04-06T21:42:51Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2801:16:9000::/48",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2801:16:9000::/48"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "264690",       "events": [         {           "eventAction": "registration",           "eventDate": "2016-04-06T21:32:44Z"         },         {           "eventAction": "last changed",           "eventDate": "2016-04-06T21:32:44Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/264690",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/264690"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "JPV5",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/JPV5",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/JPV5"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2016-03-03T22:26:19Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-25T20:57:43Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-BSSA-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-BSSA-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-BSSA-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

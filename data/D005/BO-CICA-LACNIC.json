@@ -1,0 +1,254 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-CICA-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "CIDIS CAMIRI"
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "AV. BUSCH 283",
+          ": Santa Cruz de la Sierra",
+          "",
+          "",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591  3/9522657"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "200.87.195.96/27",
+  "startAddress": "200.87.195.96",
+  "endAddress": "200.87.195.127",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-08-09T19:15:15Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-08-09T19:15:15Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/200.87.195.96/27",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/200.87.195.96/27"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "200.87.196.192/26",
+  "startAddress": "200.87.196.192",
+  "endAddress": "200.87.196.255",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-08-09T19:15:15Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-08-09T19:15:15Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/200.87.196.192/26",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/200.87.196.192/26"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "200.87.197.0/26",
+  "startAddress": "200.87.197.0",
+  "endAddress": "200.87.197.63",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-08-09T19:15:15Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-08-09T19:15:15Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/200.87.197.0/26",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/200.87.197.0/26"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "45.70.180.0/22",
+  "startAddress": "45.70.180.0",
+  "endAddress": "45.70.183.255",
+  "ipVersion": "v4",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-09-05T20:35:50Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-09-05T20:35:50Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/45.70.180.0/22",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/45.70.180.0/22"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2803:3820::/32",
+  "startAddress": "2803:3820::",
+  "endAddress": "2803:3820:ffff:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-09-05T20:40:32Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-09-05T20:40:32Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2803:3820::/32",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2803:3820::/32"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "265814",       "events": [         {           "eventAction": "registration",           "eventDate": "2017-09-05T20:49:19Z"         },         {           "eventAction": "last changed",           "eventDate": "2017-09-05T20:49:19Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/265814",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/265814"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "PAM120",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/PAM120",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/PAM120"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2017-08-04T18:57:42Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-25T20:59:27Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-CICA-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-CICA-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-CICA-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

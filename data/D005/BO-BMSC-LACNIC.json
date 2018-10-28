@@ -1,0 +1,176 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-BMSC-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "BANCO MERCANTIL SANTA CRUZ S.A."
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "Mercado 295",
+          "La Paz",
+          "",
+          "",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591 2 2654250"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "143.0.101.0/24",
+  "startAddress": "143.0.101.0",
+  "endAddress": "143.0.101.255",
+  "ipVersion": "v4",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2015-10-05T16:36:13Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2015-10-05T16:36:13Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/143.0.101.0/24",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/143.0.101.0/24"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2801:12:1000::/48",
+  "startAddress": "2801:12:1000::",
+  "endAddress": "2801:12:1000:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2015-10-05T17:10:39Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2015-10-05T17:10:39Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2801:12:1000::/48",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2801:12:1000::/48"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "264612",       "events": [         {           "eventAction": "registration",           "eventDate": "2015-10-05T16:43:37Z"         },         {           "eventAction": "last changed",           "eventDate": "2015-10-05T16:43:37Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/264612",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/264612"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "ROV39",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/ROV39",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/ROV39"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2015-09-10T20:39:30Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-25T20:57:04Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-BMSC-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-BMSC-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-BMSC-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

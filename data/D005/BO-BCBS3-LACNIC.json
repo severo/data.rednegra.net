@@ -1,0 +1,228 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-BCBS3-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "BANCO DE CREDITO DE BOLIVIA S.A."
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "Esquina Mercado",
+          "Colon 1308",
+          "La Paz",
+          "",
+          "907",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591 2 2175000"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "190.129.72.192/27",
+  "startAddress": "190.129.72.192",
+  "endAddress": "190.129.72.223",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2016-12-22T18:41:20Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2016-12-22T18:41:20Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/190.129.72.192/27",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/190.129.72.192/27"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "186.121.207.160/27",
+  "startAddress": "186.121.207.160",
+  "endAddress": "186.121.207.191",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-01-11T04:14:02Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-01-11T04:14:02Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/186.121.207.160/27",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/186.121.207.160/27"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "170.245.35.0/24",
+  "startAddress": "170.245.35.0",
+  "endAddress": "170.245.35.255",
+  "ipVersion": "v4",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-02-08T18:31:28Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-02-08T18:31:28Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/170.245.35.0/24",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/170.245.35.0/24"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2801:12:d000::/48",
+  "startAddress": "2801:12:d000::",
+  "endAddress": "2801:12:d000:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-02-08T18:57:22Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-02-08T18:57:22Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2801:12:d000::/48",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2801:12:d000::/48"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "265647",       "events": [         {           "eventAction": "registration",           "eventDate": "2017-02-08T18:36:43Z"         },         {           "eventAction": "last changed",           "eventDate": "2017-02-08T18:36:43Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/265647",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/265647"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "GGC12",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/GGC12",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/GGC12"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2016-12-13T19:25:36Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-25T20:58:39Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-BCBS3-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-BCBS3-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-BCBS3-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

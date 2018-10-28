@@ -1,0 +1,254 @@
+{
+  "objectClassName": "entity",
+  "handle": "BO-FFPP18-LACNIC",
+  "vcardArray": [
+    "vcard",
+    [
+      [
+        "version",
+        {},
+        "text",
+        "4.0"
+      ],
+      [
+        "fn",
+        {},
+        "text",
+        "BANCO PRODEM SA"
+      ],
+      [
+        "kind",
+        {},
+        "text",
+        "individual"
+      ],
+      [
+        "adr",
+        {},
+        "text",
+        [
+          "",
+          "",
+          "ZONA DE CALACOTO ENTRE LA CALLE 20 y 21 Av. BALLIVIAN 333",
+          "La Paz",
+          "LP",
+          "",
+          "BO"
+        ]
+      ],
+      [
+        "tel",
+        {
+          "type": "voice"
+        },
+        "text",
+        "591 2 33650213"
+      ]
+    ]
+  ],
+  "roles": [
+    "registrant"
+  ],
+  "networks": [
+    {
+  "objectClassName": "ip network",
+  "handle": "190.186.254.48/29",
+  "startAddress": "190.186.254.48",
+  "endAddress": "190.186.254.55",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2014-03-30T19:45:43Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2014-03-30T19:45:43Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/190.186.254.48/29",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/190.186.254.48/29"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "190.104.31.32/29",
+  "startAddress": "190.104.31.32",
+  "endAddress": "190.104.31.39",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2015-11-25T20:37:46Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2015-11-25T20:37:46Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/190.104.31.32/29",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/190.104.31.32/29"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "181.188.190.0/28",
+  "startAddress": "181.188.190.0",
+  "endAddress": "181.188.190.15",
+  "ipVersion": "v4",
+  "type": "re-allocated",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2015-11-26T18:50:45Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2015-11-26T18:50:45Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/181.188.190.0/28",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/181.188.190.0/28"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "45.4.98.0/23",
+  "startAddress": "45.4.98.0",
+  "endAddress": "45.4.99.255",
+  "ipVersion": "v4",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-03-28T20:58:31Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-03-28T20:58:31Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/45.4.98.0/23",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/45.4.98.0/23"
+    }
+  ]
+}
+
+, {
+  "objectClassName": "ip network",
+  "handle": "2801:1d:d000::/48",
+  "startAddress": "2801:1d:d000::",
+  "endAddress": "2801:1d:d000:ffff:ffff:ffff:ffff:ffff",
+  "ipVersion": "v6",
+  "type": "assigned",
+  "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2017-03-28T21:53:47Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-03-28T21:53:47Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/ip/2801:1d:d000::/48",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/ip/2801:1d:d000::/48"
+    }
+  ]
+}
+
+
+  ],
+  "autnums": [
+    {       "objectClassName": "autnum",       "handle": "265756",       "events": [         {           "eventAction": "registration",           "eventDate": "2017-06-28T21:56:50Z"         },         {           "eventAction": "last changed",           "eventDate": "2017-06-28T21:56:50Z"         }       ],       "links": [         {           "value": "https://rdap.lacnic.net/rdap/autnum/265756",           "rel": "self",           "href": "https://rdap.lacnic.net/rdap/autnum/265756"         }       ]     }
+
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "PAG61",
+      "roles": [
+        "administrative", "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/PAG61",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/PAG61"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2014-03-30T19:45:41Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-10-25T20:54:59Z"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/entity/BO-FFPP18-LACNIC",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/entity/BO-FFPP18-LACNIC"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-FFPP18-LACNIC",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}
