@@ -1,6 +1,6 @@
 ---
 layout: post
-title: D002 - Bolivian AS
+title: D002 - Bolivian ASN
 description: List of autonomous systems numbers for Bolivia
 date: 2018-10-28 8:00:00 -0400
 ---
