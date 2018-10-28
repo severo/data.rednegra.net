@@ -1,0 +1,106 @@
+{
+  "objectClassName": "autnum",
+  "handle": "52250",
+  "type": "DIRECT ALLOCATION",
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2010-05-27T19:55:25Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2016-08-16T16:42:58Z"
+    }
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "BO-RBCD2-LACNIC",
+      "vcardArray": [
+    	"vcard",
+    	[
+     	 [
+        	"version",
+	        {},
+    	    "text",
+        	"4.0"
+	      ],
+    	  [
+        	"fn",
+	        {},
+       	 	"text",
+        	"Ag para el Desarrollo de la Sociedad de la Inf en Bolivia - ADSIB"
+      	],
+      	[
+        	"kind",
+        	{},
+        	"text",
+        	"individual"
+      	]
+    	]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-RBCD2-LACNIC",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/BO-RBCD2-LACNIC"
+        }
+      ]
+    },     {
+      "objectClassName": "entity",
+      "handle": "IRM2",
+      "roles": [
+        "technical", "abuse"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/IRM2",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/IRM2"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/autnum/52250",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/autnum/52250"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/autnum/52250",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

@@ -1,0 +1,106 @@
+{
+  "objectClassName": "autnum",
+  "handle": "265670",
+  "type": "DIRECT ALLOCATION",
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2017-03-09T20:47:10Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2017-03-09T20:47:10Z"
+    }
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "BO-BNBO1-LACNIC",
+      "vcardArray": [
+    	"vcard",
+    	[
+     	 [
+        	"version",
+	        {},
+    	    "text",
+        	"4.0"
+	      ],
+    	  [
+        	"fn",
+	        {},
+       	 	"text",
+        	"BANCO NACIONAL DE BOLIVIA S.A."
+      	],
+      	[
+        	"kind",
+        	{},
+        	"text",
+        	"individual"
+      	]
+    	]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-BNBO1-LACNIC",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/BO-BNBO1-LACNIC"
+        }
+      ]
+    },     {
+      "objectClassName": "entity",
+      "handle": "LZF2",
+      "roles": [
+        "technical", "abuse"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/LZF2",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/LZF2"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/autnum/265670",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/autnum/265670"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/autnum/265670",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

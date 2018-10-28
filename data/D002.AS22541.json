@@ -1,0 +1,106 @@
+{
+  "objectClassName": "autnum",
+  "handle": "22541",
+  "type": "DIRECT ALLOCATION",
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2001-10-12T15:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2001-10-12T15:00:00Z"
+    }
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "BO-MEGA-LACNIC",
+      "vcardArray": [
+    	"vcard",
+    	[
+     	 [
+        	"version",
+	        {},
+    	    "text",
+        	"4.0"
+	      ],
+    	  [
+        	"fn",
+	        {},
+       	 	"text",
+        	"MegaLink"
+      	],
+      	[
+        	"kind",
+        	{},
+        	"text",
+        	"individual"
+      	]
+    	]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-MEGA-LACNIC",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/BO-MEGA-LACNIC"
+        }
+      ]
+    },     {
+      "objectClassName": "entity",
+      "handle": "JAG",
+      "roles": [
+        "technical", "abuse"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/JAG",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/JAG"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/autnum/22541",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/autnum/22541"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/autnum/22541",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}

@@ -1,0 +1,106 @@
+{
+  "objectClassName": "autnum",
+  "handle": "262159",
+  "type": "DIRECT ALLOCATION",
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2011-04-14T23:27:39Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2013-09-17T16:25:32Z"
+    }
+  ],
+  "entities": [
+        {
+      "objectClassName": "entity",
+      "handle": "BO-DTCE1-LACNIC",
+      "vcardArray": [
+    	"vcard",
+    	[
+     	 [
+        	"version",
+	        {},
+    	    "text",
+        	"4.0"
+	      ],
+    	  [
+        	"fn",
+	        {},
+       	 	"text",
+        	"Digital TV CABLE DE EDMUND S.R.L."
+      	],
+      	[
+        	"kind",
+        	{},
+        	"text",
+        	"individual"
+      	]
+    	]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/BO-DTCE1-LACNIC",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/BO-DTCE1-LACNIC"
+        }
+      ]
+    },     {
+      "objectClassName": "entity",
+      "handle": "DAG48",
+      "roles": [
+        "technical", "abuse"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/entity/DAG48",
+          "rel": "self",
+          "href": "https://rdap.lacnic.net/rdap/entity/DAG48"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.lacnic.net/rdap/autnum/262159",
+      "rel": "self",
+      "href": "https://rdap.lacnic.net/rdap/autnum/262159"
+    },
+    {
+      "value": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+      "rel": "copyright",
+      "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Terms and Conditions",
+      "description": [
+        "This is the LACNIC RDAP service. Objects are in RDAP format."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.lacnic.net/rdap/autnum/262159",
+          "rel": "terms-of-service",
+          "href": "http://www.lacnic.net/web/lacnic/registration-data-access-protocol",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Cache",
+      "description": [
+        "This object is stored in a temporary cache.",
+        "Rdap objects may take up to 4 hours to refresh."
+      ]
+    }
+  ],
+  "port43": "whois.lacnic.net"
+}
