@@ -3,6 +3,29 @@
     "domain": "google.com.bo",
     "alexaRank": "7904",
     "ipv4": "172.217.2.67",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "172.217.2.0/24",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "GOOGLE - Google LLC",
+          "asn": 15169
+        }
+      ],
+      "block": {
+        "resource": "172.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [
+        "172.217.0.0/16"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "ord08s13-in-f3.1e100.net.",
       "ord08s13-in-f3.1e100.net.",
@@ -113,6 +136,27 @@
     "domain": "eldeber.com.bo",
     "alexaRank": "16723",
     "ipv4": "34.198.241.41",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "34.192.0.0/12",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AMAZON-AES - Amazon.com",
+          "asn": 14618
+        }
+      ],
+      "block": {
+        "resource": "34.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "ec2-34-198-241-41.compute-1.amazonaws.com."
     ],
@@ -291,6 +335,29 @@
     "domain": "trabajopolis.bo",
     "alexaRank": "27360",
     "ipv4": "104.25.193.16",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "104.25.192.0/20",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "CLOUDFLARENET - Cloudflare",
+          "asn": 13335
+        }
+      ],
+      "block": {
+        "resource": "104.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "104.16.0.0/12"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -390,6 +457,27 @@
     "domain": "impuestos.gob.bo",
     "alexaRank": "35326",
     "ipv4": "170.82.244.41",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "170.82.244.0/23",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Servicio de Impuestos Nacionales",
+          "asn": 264858
+        }
+      ],
+      "block": {
+        "resource": "170.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "www.impuestos.gob.bo."
     ],
@@ -473,6 +561,29 @@
     "domain": "paginasiete.bo",
     "alexaRank": "44161",
     "ipv4": "104.25.70.108",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "104.25.64.0/20",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "CLOUDFLARENET - Cloudflare",
+          "asn": 13335
+        }
+      ],
+      "block": {
+        "resource": "104.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "104.16.0.0/12"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -572,6 +683,27 @@
     "domain": "scielo.org.bo",
     "alexaRank": "61778",
     "ipv4": "200.105.141.249",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.105.141.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-200-105-141-249.acelerate.net."
     ],
@@ -666,6 +798,30 @@
     "domain": "entel.bo",
     "alexaRank": "63787",
     "ipv4": "190.129.116.21",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.112.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "Cochabamba",
@@ -722,6 +878,27 @@
     "domain": "bancounion.com.bo",
     "alexaRank": "68419",
     "ipv4": "192.124.249.120",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "192.124.249.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "SUCURI-SEC - Sucuri",
+          "asn": 30148
+        }
+      ],
+      "block": {
+        "resource": "192.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "cloudproxy10120.sucuri.net."
     ],
@@ -841,6 +1018,27 @@
     "domain": "umsa.bo",
     "alexaRank": "69456",
     "ipv4": "200.7.161.56",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.7.161.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "UNIVERSIDAD MAYOR DE SAN ANDRES",
+          "asn": 27828
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -951,6 +1149,27 @@
     "domain": "sigma.gob.bo",
     "alexaRank": "69861",
     "ipv4": "190.181.4.102",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.181.4.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-190-181-4-102.acelerate.net."
     ],
@@ -1033,6 +1252,27 @@
     "domain": "sociales.com.bo",
     "alexaRank": "72404",
     "ipv4": "34.198.241.41",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "34.192.0.0/12",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AMAZON-AES - Amazon.com",
+          "asn": 14618
+        }
+      ],
+      "block": {
+        "resource": "34.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "ec2-34-198-241-41.compute-1.amazonaws.com."
     ],
@@ -1211,6 +1451,27 @@
     "domain": "diez.bo",
     "alexaRank": "84603",
     "ipv4": "34.198.241.41",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "34.192.0.0/12",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AMAZON-AES - Amazon.com",
+          "asn": 14618
+        }
+      ],
+      "block": {
+        "resource": "34.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "ec2-34-198-241-41.compute-1.amazonaws.com."
     ],
@@ -1389,6 +1650,27 @@
     "domain": "opinion.com.bo",
     "alexaRank": "92932",
     "ipv4": "200.105.134.157",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.105.134.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-200-105-134-157.acelerate.net."
     ],
@@ -1508,6 +1790,30 @@
     "domain": "sicoes.gob.bo",
     "alexaRank": "101757",
     "ipv4": "200.87.146.67",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.87.144.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "200.87.0.0/16",
+        "200.87.128.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-200-87-146-67.entelnet.bo."
     ],
@@ -1572,6 +1878,30 @@
     "domain": "aduana.gob.bo",
     "alexaRank": "116822",
     "ipv4": "190.129.75.233",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.64.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "La Paz",
@@ -1628,6 +1958,30 @@
     "domain": "minedu.gob.bo",
     "alexaRank": "132690",
     "ipv4": "200.87.136.11",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.87.128.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "200.87.0.0/16",
+        "200.87.128.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-200-87-136-11.entelnet.bo."
     ],
@@ -1698,6 +2052,29 @@
     "domain": "erbol.com.bo",
     "alexaRank": "133826",
     "ipv4": "104.27.166.211",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "104.27.160.0/20",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "CLOUDFLARENET - Cloudflare",
+          "asn": 13335
+        }
+      ],
+      "block": {
+        "resource": "104.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "104.16.0.0/12"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -1803,6 +2180,27 @@
     "domain": "umss.edu.bo",
     "alexaRank": "142724",
     "ipv4": "167.157.7.23",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "167.157.0.0/16",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "167.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -1902,6 +2300,30 @@
     "domain": "abi.bo",
     "alexaRank": "145042",
     "ipv4": "190.129.90.40",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.80.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "La Paz",
@@ -1958,6 +2380,30 @@
     "domain": "bcp.com.bo",
     "alexaRank": "146213",
     "ipv4": "190.129.72.194",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.64.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-190-129-72-194.entelnet.bo."
     ],
@@ -2041,6 +2487,27 @@
     "domain": "olx.com.bo",
     "alexaRank": "151017",
     "ipv4": "204.74.99.100",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "204.74.99.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "ULTRADNS - NeuStar",
+          "asn": 12008
+        }
+      ],
+      "block": {
+        "resource": "204.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "crs.ultradns.net."
     ],
@@ -2129,6 +2596,27 @@
     "domain": "revistasbolivianas.org.bo",
     "alexaRank": "155829",
     "ipv4": "200.105.141.245",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.105.141.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-200-105-141-245.acelerate.net."
     ],
@@ -2223,6 +2711,29 @@
     "domain": "radios.com.bo",
     "alexaRank": "167195",
     "ipv4": "104.31.76.49",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "104.31.64.0/20",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "CLOUDFLARENET - Cloudflare",
+          "asn": 13335
+        }
+      ],
+      "block": {
+        "resource": "104.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "104.16.0.0/12"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -2303,6 +2814,27 @@
     "domain": "gnb.com.bo",
     "alexaRank": "169409",
     "ipv4": "162.144.128.168",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "162.144.0.0/16",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "UNIFIEDLAYER-AS-1 - Unified Layer",
+          "asn": 46606
+        }
+      ],
+      "block": {
+        "resource": "162.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "server.guiadenegocios-bo.com."
     ],
@@ -2445,6 +2977,27 @@
     "domain": "eldia.com.bo",
     "alexaRank": "186636",
     "ipv4": "176.9.151.90",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "176.9.0.0/16",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "HETZNER-AS - Hetzner Online GmbH",
+          "asn": 24940
+        }
+      ],
+      "block": {
+        "resource": "176.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "RIPE NCC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "www.eldia.com.bo."
     ],
@@ -2606,6 +3159,27 @@
     "domain": "ruat.gob.bo",
     "alexaRank": "194941",
     "ipv4": "186.121.204.114",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "186.121.204.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "186.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-186-121-204-114.acelerate.net."
     ],
@@ -2688,6 +3262,27 @@
     "domain": "prevision.com.bo",
     "alexaRank": "195735",
     "ipv4": "176.9.151.69",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "176.9.0.0/16",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "HETZNER-AS - Hetzner Online GmbH",
+          "asn": 24940
+        }
+      ],
+      "block": {
+        "resource": "176.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "RIPE NCC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "ns8.scbbs.net."
     ],
@@ -2861,6 +3456,30 @@
     "domain": "minsalud.gob.bo",
     "alexaRank": "196624",
     "ipv4": "190.129.72.91",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.64.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-190-129-72-91.entelnet.bo."
     ],
@@ -2931,6 +3550,30 @@
     "domain": "cambio.bo",
     "alexaRank": "197500",
     "ipv4": "190.129.90.36",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.80.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "La Paz",
@@ -2987,6 +3630,27 @@
     "domain": "bnb.com.bo",
     "alexaRank": "202708",
     "ipv4": "200.105.136.74",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.105.136.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-200-105-136-74.acelerate.net."
     ],
@@ -3106,6 +3770,27 @@
     "domain": "economiayfinanzas.gob.bo",
     "alexaRank": "203246",
     "ipv4": "190.181.51.103",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.181.51.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-190-181-51-103.acelerate.net."
     ],
@@ -3225,6 +3910,27 @@
     "domain": "contraloria.gob.bo",
     "alexaRank": "208407",
     "ipv4": "181.188.183.43",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "181.188.182.0/23",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Telefónica Celular de Bolivia S.A.",
+          "asn": 27882
+        }
+      ],
+      "block": {
+        "resource": "181.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "LPZ-181-188-183-00043.tigo.bo."
     ],
@@ -3333,6 +4039,27 @@
     "domain": "tigo.com.bo",
     "alexaRank": "215433",
     "ipv4": "52.0.229.131",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "52.0.0.0/15",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AMAZON-AES - Amazon.com",
+          "asn": 14618
+        }
+      ],
+      "block": {
+        "resource": "52.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "ec2-52-0-229-131.compute-1.amazonaws.com."
     ],
@@ -3511,6 +4238,27 @@
     "domain": "bmsc.com.bo",
     "alexaRank": "220474",
     "ipv4": "143.0.101.24",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "143.0.101.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "BANCO MERCANTIL SANTA CRUZ S.A.",
+          "asn": 264612
+        }
+      ],
+      "block": {
+        "resource": "143.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "bmsc.com.bo.",
       "www.bmsc.com.bo."
@@ -3576,6 +4324,27 @@
     "domain": "boa.bo",
     "alexaRank": "240698",
     "ipv4": "52.226.131.25",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "52.224.0.0/11",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation",
+          "asn": 8075
+        }
+      ],
+      "block": {
+        "resource": "52.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "Washington",
@@ -3716,6 +4485,29 @@
     "domain": "educa.com.bo",
     "alexaRank": "244047",
     "ipv4": "173.236.126.102",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "173.236.96.0/19",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "SINGLEHOP-LLC - SingleHop LLC",
+          "asn": 32475
+        }
+      ],
+      "block": {
+        "resource": "173.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "173.236.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "lake-7010.banahosting.com."
     ],
@@ -3828,6 +4620,27 @@
     "domain": "usfx.bo",
     "alexaRank": "244824",
     "ipv4": "201.131.45.6",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "201.131.45.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "UNIVERSIDAD SAN FRANCISCO XAVIER DE CHUQUISACA",
+          "asn": 263709
+        }
+      ],
+      "block": {
+        "resource": "201.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -3896,6 +4709,27 @@
     "domain": "gente.com.bo",
     "alexaRank": "262112",
     "ipv4": "45.79.154.148",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "45.79.128.0/19",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "LINODE-AP Linode",
+          "asn": 63949
+        }
+      ],
+      "block": {
+        "resource": "45.72.0.0/13",
+        "name": "IANA Recovered Address Space Registry",
+        "desc": "This IP space was taken from IANA's recovered IPv4 pool in March 2015 and given to ARIN (Source: IPv4 Recovered Address Space)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "li1253-148.members.linode.com."
     ],
@@ -4008,6 +4842,27 @@
     "domain": "udabol.edu.bo",
     "alexaRank": "263941",
     "ipv4": "167.114.64.105",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "167.114.0.0/17",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "OVH - OVH SAS",
+          "asn": 16276
+        }
+      ],
+      "block": {
+        "resource": "167.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "srv16.srlpunto.com."
     ],
@@ -4127,6 +4982,27 @@
     "domain": "ucbcba.edu.bo",
     "alexaRank": "270996",
     "ipv4": "190.181.40.234",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.181.40.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-190-181-40-234.acelerate.net."
     ],
@@ -4209,6 +5085,27 @@
     "domain": "viva.com.bo",
     "alexaRank": "272913",
     "ipv4": "188.40.64.78",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "188.40.0.0/16",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "HETZNER-AS - Hetzner Online GmbH",
+          "asn": 24940
+        }
+      ],
+      "block": {
+        "resource": "188.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by RIPE NCC"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "h31.megalink.com."
     ],
@@ -4382,6 +5279,27 @@
     "domain": "ine.gob.bo",
     "alexaRank": "277773",
     "ipv4": "200.105.137.11",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.105.137.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-200-105-137-11.acelerate.net."
     ],
@@ -4482,6 +5400,29 @@
     "domain": "sie.gob.bo",
     "alexaRank": "285796",
     "ipv4": "104.222.98.128",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "104.222.96.0/21",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "BIZNESSHOSTING-DBA-VOLICO - VOLICO",
+          "asn": 33724
+        }
+      ],
+      "block": {
+        "resource": "104.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "104.222.96.0/20"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "G128.datasoft.ws."
     ],
@@ -4607,6 +5548,27 @@
     "domain": "bcb.gob.bo",
     "alexaRank": "288378",
     "ipv4": "181.188.188.155",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "181.188.188.0/23",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Telefónica Celular de Bolivia S.A.",
+          "asn": 27882
+        }
+      ],
+      "block": {
+        "resource": "181.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "LPZ-181-188-188-00155.tigo.bo."
     ],
@@ -4715,6 +5677,29 @@
     "domain": "reduno.com.bo",
     "alexaRank": "290071",
     "ipv4": "104.20.231.46",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "104.20.224.0/20",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "CLOUDFLARENET - Cloudflare",
+          "asn": 13335
+        }
+      ],
+      "block": {
+        "resource": "104.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "104.16.0.0/12"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -4808,6 +5793,27 @@
     "domain": "locanto.com.bo",
     "alexaRank": "292225",
     "ipv4": "91.203.103.160",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "91.203.100.0/22",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "YALWA-AS - Yalwa GmbH",
+          "asn": 203347
+        }
+      ],
+      "block": {
+        "resource": "91.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "RIPE NCC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -4912,6 +5918,27 @@
     "domain": "redbolivision.tv.bo",
     "alexaRank": "303621",
     "ipv4": "54.209.102.89",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "54.208.0.0/15",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AMAZON-AES - Amazon.com",
+          "asn": 14618
+        }
+      ],
+      "block": {
+        "resource": "54.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "ec2-54-209-102-89.compute-1.amazonaws.com."
     ],
@@ -5090,6 +6117,30 @@
     "domain": "comunicacion.gob.bo",
     "alexaRank": "303913",
     "ipv4": "190.129.90.38",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.80.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "La Paz",
@@ -5146,6 +6197,29 @@
     "domain": "elpais.bo",
     "alexaRank": "307140",
     "ipv4": "74.124.197.187",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "74.124.197.0/24",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "IMH-WEST - InMotion Hosting",
+          "asn": 22611
+        }
+      ],
+      "block": {
+        "resource": "74.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "74.124.192.0/19"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "advanced1624.inmotionhosting.com."
     ],
@@ -5252,6 +6326,27 @@
     "domain": "oep.org.bo",
     "alexaRank": "317057",
     "ipv4": "52.186.84.44",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "52.160.0.0/11",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation",
+          "asn": 8075
+        }
+      ],
+      "block": {
+        "resource": "52.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "Washington",
@@ -5392,6 +6487,27 @@
     "domain": "baneco.com.bo",
     "alexaRank": "318023",
     "ipv4": "45.60.105.209",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "45.60.105.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "INCAPSULA - Incapsula Inc",
+          "asn": 19551
+        }
+      ],
+      "block": {
+        "resource": "45.32.0.0/11",
+        "name": "IANA Recovered Address Space Registry",
+        "desc": "This IP space was taken from IANA's recovered IPv4 pool in May 2014 and given to ARIN (Source: IPv4 Recovered Address Space)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -5484,6 +6600,30 @@
     "domain": "mindeportes.gob.bo",
     "alexaRank": "337125",
     "ipv4": "190.129.74.202",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.64.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "La Paz",
@@ -5559,6 +6699,27 @@
     "domain": "santacruz.gob.bo",
     "alexaRank": "340455",
     "ipv4": "181.188.148.18",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "181.188.148.0/23",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Telefónica Celular de Bolivia S.A.",
+          "asn": 27882
+        }
+      ],
+      "block": {
+        "resource": "181.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "SCZ-181-188-148-00018.tigo.bo."
     ],
@@ -5673,6 +6834,27 @@
     "domain": "atb.com.bo",
     "alexaRank": "340615",
     "ipv4": "162.144.98.144",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "162.144.0.0/16",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "UNIFIEDLAYER-AS-1 - Unified Layer",
+          "asn": 46606
+        }
+      ],
+      "block": {
+        "resource": "162.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "162-144-98-144.unifiedlayer.com."
     ],
@@ -5815,6 +6997,27 @@
     "domain": "upds.edu.bo",
     "alexaRank": "341014",
     "ipv4": "181.188.156.44",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "181.188.156.0/23",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Telefónica Celular de Bolivia S.A.",
+          "asn": 27882
+        }
+      ],
+      "block": {
+        "resource": "181.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "SCZ-181-188-156-00044.tigo.bo."
     ],
@@ -5929,6 +7132,27 @@
     "domain": "ibce.org.bo",
     "alexaRank": "347362",
     "ipv4": "64.37.62.46",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "64.37.48.0/20",
+      "actual_num_related": 0,
+      "num_filtered_out": 1,
+      "asns": [
+        {
+          "holder": "DIMENOC - HostDime.com",
+          "asn": 33182
+        }
+      ],
+      "block": {
+        "resource": "64.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "single-6020.banahosting.com."
     ],
@@ -6017,6 +7241,27 @@
     "domain": "egpp.gob.bo",
     "alexaRank": "348189",
     "ipv4": "50.28.14.161",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "50.28.0.0/18",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "LIQUIDWEB - Liquid Web",
+          "asn": 32244
+        }
+      ],
+      "block": {
+        "resource": "50.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "capacita.teleeducacion.net."
     ],
@@ -6117,6 +7362,30 @@
     "domain": "rree.gob.bo",
     "alexaRank": "352674",
     "ipv4": "190.129.69.4",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.64.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "La Paz",
@@ -6173,6 +7442,30 @@
     "domain": "organojudicial.gob.bo",
     "alexaRank": "352942",
     "ipv4": "200.87.9.184",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.87.0.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "200.87.0.0/16",
+        "200.87.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -6235,6 +7528,27 @@
     "domain": "fundempresa.org.bo",
     "alexaRank": "363375",
     "ipv4": "200.105.134.18",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.105.134.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "mail.fundempresa.org.bo."
     ],
@@ -6354,6 +7668,29 @@
     "domain": "mercadolibre.com.bo",
     "alexaRank": "367772",
     "ipv4": "216.33.197.127",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "216.33.197.0/24",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "MELI-ASN-1 - MercadoLibre Inc.",
+          "asn": 53387
+        }
+      ],
+      "block": {
+        "resource": "216.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "216.32.0.0/14"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -6440,6 +7777,30 @@
     "domain": "boliviatv.bo",
     "alexaRank": "379654",
     "ipv4": "190.129.162.66",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.160.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.128.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "La Paz",
@@ -6521,6 +7882,27 @@
     "domain": "lapaz.bo",
     "alexaRank": "386826",
     "ipv4": "52.224.124.156",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "52.224.0.0/11",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation",
+          "asn": 8075
+        }
+      ],
+      "block": {
+        "resource": "52.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "Washington",
@@ -6661,6 +8043,27 @@
     "domain": "contrata2.bo",
     "alexaRank": "388434",
     "ipv4": "181.188.147.18",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "181.188.147.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Telefónica Celular de Bolivia S.A.",
+          "asn": 27882
+        }
+      ],
+      "block": {
+        "resource": "181.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "SCZ-181-188-147-00018.tigo.bo."
     ],
@@ -6775,6 +8178,27 @@
     "domain": "anh.gob.bo",
     "alexaRank": "388892",
     "ipv4": "200.33.113.80",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.33.113.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Agencia Nacional de Hidrocarburos",
+          "asn": 264747
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "www.anh.gob.bo."
     ],
@@ -6851,6 +8275,30 @@
     "domain": "uto.edu.bo",
     "alexaRank": "394335",
     "ipv4": "190.129.1.52",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.0.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "marte.uto.edu.bo."
     ],
@@ -6915,6 +8363,29 @@
     "domain": "tibo.bo",
     "alexaRank": "398905",
     "ipv4": "104.27.167.129",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "104.27.160.0/20",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "CLOUDFLARENET - Cloudflare",
+          "asn": 13335
+        }
+      ],
+      "block": {
+        "resource": "104.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "104.16.0.0/12"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -7020,6 +8491,30 @@
     "domain": "uagrm.edu.bo",
     "alexaRank": "416045",
     "ipv4": "200.87.195.238",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.87.192.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "200.87.0.0/16",
+        "200.87.128.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "Santa Cruz",
@@ -7112,6 +8607,27 @@
     "domain": "upedagogica.edu.bo",
     "alexaRank": "418093",
     "ipv4": "98.142.100.234",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "98.142.96.0/20",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "DIMENOC - HostDime.com",
+          "asn": 33182
+        }
+      ],
+      "block": {
+        "resource": "98.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "server.upedagogica.edu.bo."
     ],
@@ -7225,6 +8741,27 @@
     "domain": "infocasas.com.bo",
     "alexaRank": "418702",
     "ipv4": "34.210.19.71",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "34.208.0.0/12",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AMAZON-02 - Amazon.com",
+          "asn": 16509
+        }
+      ],
+      "block": {
+        "resource": "34.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "ec2-34-210-19-71.us-west-2.compute.amazonaws.com."
     ],
@@ -7422,6 +8959,30 @@
     "domain": "ucbscz.edu.bo",
     "alexaRank": "420490",
     "ipv4": "200.87.198.200",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.87.192.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "200.87.0.0/16",
+        "200.87.128.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "Santa Cruz",
@@ -7496,6 +9057,30 @@
     "domain": "oopp.gob.bo",
     "alexaRank": "427052",
     "ipv4": "200.87.133.178",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.87.128.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "200.87.0.0/16",
+        "200.87.128.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "ns.oopp.gob.bo."
     ],
@@ -7554,6 +9139,29 @@
     "domain": "senamhi.gob.bo",
     "alexaRank": "436328",
     "ipv4": "104.244.125.235",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "104.244.124.0/22",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "IMH-WEST - InMotion Hosting",
+          "asn": 22611
+        }
+      ],
+      "block": {
+        "resource": "104.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "104.244.120.0/21"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "ld106.inmotionhosting.com."
     ],
@@ -7660,6 +9268,27 @@
     "domain": "bvsp.org.bo",
     "alexaRank": "439630",
     "ipv4": "200.105.141.246",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.105.141.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-200-105-141-246.acelerate.net."
     ],
@@ -7754,6 +9383,27 @@
     "domain": "emi.edu.bo",
     "alexaRank": "456358",
     "ipv4": "200.105.132.233",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.105.132.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-200-105-132-233.acelerate.net."
     ],
@@ -7873,6 +9523,27 @@
     "domain": "elmundo.com.bo",
     "alexaRank": "457195",
     "ipv4": "144.208.71.103",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "144.208.68.0/22",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "IMH-WEST - InMotion Hosting",
+          "asn": 22611
+        }
+      ],
+      "block": {
+        "resource": "144.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "server.marcaymercado.org."
     ],
@@ -7979,6 +9650,30 @@
     "domain": "att.gob.bo",
     "alexaRank": "459530",
     "ipv4": "190.129.78.147",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.64.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "La Paz",
@@ -8084,6 +9779,30 @@
     "domain": "mintrabajo.gob.bo",
     "alexaRank": "468080",
     "ipv4": "190.129.70.146",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.64.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-190-129-70-146.entelnet.bo."
     ],
@@ -8161,6 +9880,27 @@
     "domain": "ucb.edu.bo",
     "alexaRank": "475606",
     "ipv4": "201.131.41.12",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "201.131.41.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "UNIVERSIDAD CATÓLICA BOLIVIANA SAN PABLO",
+          "asn": 61475
+        }
+      ],
+      "block": {
+        "resource": "201.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "www.ce.ucb.edu.bo.",
       "www.ia.ucb.edu.bo.",
@@ -8248,6 +9988,27 @@
     "domain": "ejercito.mil.bo",
     "alexaRank": "482841",
     "ipv4": "186.121.203.114",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "186.121.203.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "186.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "ns1.ejercito.mil.bo."
     ],
@@ -8330,6 +10091,29 @@
     "domain": "ypfb.gob.bo",
     "alexaRank": "484118",
     "ipv4": "181.115.244.226",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "181.115.240.0/20",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "181.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "181.115.128.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "Cobija",
@@ -8368,6 +10152,27 @@
     "domain": "pieb.com.bo",
     "alexaRank": "494009",
     "ipv4": "192.232.216.170",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "192.232.192.0/19",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "UNIFIEDLAYER-AS-1 - Unified Layer",
+          "asn": 46606
+        }
+      ],
+      "block": {
+        "resource": "192.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "Houston",
@@ -8508,6 +10313,29 @@
     "domain": "historia.com.bo",
     "alexaRank": "510328",
     "ipv4": "69.175.23.29",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "69.175.0.0/18",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "SINGLEHOP-LLC - SingleHop LLC",
+          "asn": 32475
+        }
+      ],
+      "block": {
+        "resource": "69.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "69.175.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "single-4710.banahosting.com."
     ],
@@ -8626,6 +10454,31 @@
     "domain": "gacetaoficialdebolivia.gob.bo",
     "alexaRank": "526657",
     "ipv4": "200.87.106.4",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.87.104.0/21",
+      "actual_num_related": 3,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "200.87.0.0/16",
+        "200.87.0.0/17",
+        "200.87.96.0/20"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -8700,6 +10553,27 @@
     "domain": "iglesia.org.bo",
     "alexaRank": "545035",
     "ipv4": "66.96.130.23",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "66.96.128.0/18",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "BIZLAND-SD - The Endurance International Group",
+          "asn": 29873
+        }
+      ],
+      "block": {
+        "resource": "66.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "23.130.96.66.static.eigbox.net."
     ],
@@ -8830,6 +10704,30 @@
     "domain": "policiadnfr.gob.bo",
     "alexaRank": "546925",
     "ipv4": "200.87.132.3",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.87.128.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "200.87.0.0/16",
+        "200.87.128.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -8886,6 +10784,27 @@
     "domain": "laprensa.com.bo",
     "alexaRank": "548349",
     "ipv4": "45.79.153.29",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "45.79.128.0/19",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "LINODE-AP Linode",
+          "asn": 63949
+        }
+      ],
+      "block": {
+        "resource": "45.72.0.0/13",
+        "name": "IANA Recovered Address Space Registry",
+        "desc": "This IP space was taken from IANA's recovered IPv4 pool in March 2015 and given to ARIN (Source: IPv4 Recovered Address Space)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "li1252-29.members.linode.com."
     ],
@@ -8998,6 +10917,27 @@
     "domain": "segip.gob.bo",
     "alexaRank": "551394",
     "ipv4": "66.96.149.1",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "66.96.128.0/18",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "BIZLAND-SD - The Endurance International Group",
+          "asn": 29873
+        }
+      ],
+      "block": {
+        "resource": "66.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "1.149.96.66.static.eigbox.net."
     ],
@@ -9122,6 +11062,29 @@
     "domain": "fbtenis.org.bo",
     "alexaRank": "559965",
     "ipv4": "198.54.115.41",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "198.54.115.0/24",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "NAMECHEAP-NET - Namecheap",
+          "asn": 22612
+        }
+      ],
+      "block": {
+        "resource": "198.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [
+        "198.54.112.0/20"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "business33-2.web-hosting.com."
     ],
@@ -9234,6 +11197,27 @@
     "domain": "dpicuto.edu.bo",
     "alexaRank": "573919",
     "ipv4": "108.167.141.138",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "108.167.140.0/22",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "CYRUSONE - CyrusOne LLC",
+          "asn": 20013
+        }
+      ],
+      "block": {
+        "resource": "108.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "gator4170.hostgator.com."
     ],
@@ -9358,6 +11342,27 @@
     "domain": "agetic.gob.bo",
     "alexaRank": "584926",
     "ipv4": "186.121.243.146",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "186.121.243.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "186.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "smtp.agetic.gob.bo."
     ],
@@ -9477,6 +11482,30 @@
     "domain": "usalesiana.edu.bo",
     "alexaRank": "601572",
     "ipv4": "190.129.72.232",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.64.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-190-129-72-232.entelnet.bo."
     ],
@@ -9554,6 +11583,30 @@
     "domain": "chuquisaca.gob.bo",
     "alexaRank": "604926",
     "ipv4": "200.87.14.227",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.87.0.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "200.87.0.0/16",
+        "200.87.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -9628,6 +11681,27 @@
     "domain": "cochabamba.bo",
     "alexaRank": "609661",
     "ipv4": "200.58.77.90",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.58.64.0/19",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Comteco Ltda",
+          "asn": 27839
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "cochabamba.bo."
     ],
@@ -9704,6 +11778,29 @@
     "domain": "cabbi.bo",
     "alexaRank": "624810",
     "ipv4": "185.199.110.153",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "185.199.110.0/24",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "FASTLY - Fastly",
+          "asn": 54113
+        }
+      ],
+      "block": {
+        "resource": "185.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "RIPE NCC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "185.199.108.0/22"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -9815,6 +11912,27 @@
     "domain": "rtpbolivia.com.bo",
     "alexaRank": "647563",
     "ipv4": "69.195.118.22",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "69.195.64.0/18",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "UNIFIEDLAYER-AS-1 - Unified Layer",
+          "asn": 46606
+        }
+      ],
+      "block": {
+        "resource": "69.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "69-195-118-22.unifiedlayer.com."
     ],
@@ -9957,6 +12075,27 @@
     "domain": "jetcost.com.bo",
     "alexaRank": "672864",
     "ipv4": "51.254.52.239",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "51.254.0.0/15",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "OVH - OVH SAS",
+          "asn": 16276
+        }
+      ],
+      "block": {
+        "resource": "51.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by RIPE NCC"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -10092,6 +12231,27 @@
     "domain": "noticiasmormonas.org.bo",
     "alexaRank": "683073",
     "ipv4": "216.49.176.114",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "216.49.176.0/21",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "LDSCHURCH1 - THE CHURCH OF JESUS CHRIST OF LATTER DAY SAINTS",
+          "asn": 19648
+        }
+      ],
+      "block": {
+        "resource": "216.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       ";; connection timed out; no servers could be reached"
     ],
@@ -10246,6 +12406,30 @@
     "domain": "abt.gob.bo",
     "alexaRank": "696582",
     "ipv4": "200.87.224.122",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.87.224.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "200.87.0.0/16",
+        "200.87.128.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -10326,6 +12510,27 @@
     "domain": "fab.bo",
     "alexaRank": "697574",
     "ipv4": "200.105.170.91",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.105.170.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-200-105-170-91.acelerate.net."
     ],
@@ -10433,6 +12638,27 @@
     "domain": "bancosol.com.bo",
     "alexaRank": "700142",
     "ipv4": "200.10.156.100",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.10.156.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "BANCO SOLIDARIO S.A.",
+          "asn": 264690
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "www2.bancosol.org.bo.",
       "www2.bancosol.bo.",
@@ -10520,6 +12746,27 @@
     "domain": "abyayala.tv.bo",
     "alexaRank": "704714",
     "ipv4": "181.188.190.187",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "181.188.190.0/23",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Telefónica Celular de Bolivia S.A.",
+          "asn": 27882
+        }
+      ],
+      "block": {
+        "resource": "181.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "LPZ-181-188-190-00187.tigo.bo."
     ],
@@ -10647,6 +12894,27 @@
     "domain": "impuestosbolivia.com.bo",
     "alexaRank": "705538",
     "ipv4": "178.33.163.4",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "178.32.0.0/15",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "OVH - OVH SAS",
+          "asn": 16276
+        }
+      ],
+      "block": {
+        "resource": "178.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "RIPE NCC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "ns581.webempresa.eu."
     ],
@@ -10778,6 +13046,27 @@
     "domain": "justicia.gob.bo",
     "alexaRank": "705539",
     "ipv4": "190.181.5.106",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.181.5.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-190-181-5-106.acelerate.net."
     ],
@@ -10860,6 +13149,30 @@
     "domain": "tcpbolivia.bo",
     "alexaRank": "711298",
     "ipv4": "200.87.9.142",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.87.0.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "200.87.0.0/16",
+        "200.87.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -10922,6 +13235,30 @@
     "domain": "uatf.edu.bo",
     "alexaRank": "711476",
     "ipv4": "190.129.25.122",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.16.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -11009,6 +13346,27 @@
     "domain": "epson.com.bo",
     "alexaRank": "793268",
     "ipv4": "13.32.80.70",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "13.32.80.0/21",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AMAZON-02 - Amazon.com",
+          "asn": 16509
+        }
+      ],
+      "block": {
+        "resource": "13.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "server-13-32-80-70.mia3.r.cloudfront.net."
     ],
@@ -11152,6 +13510,29 @@
     "domain": "rab.bo",
     "alexaRank": "795911",
     "ipv4": "104.27.137.14",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "104.27.128.0/20",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "CLOUDFLARENET - Cloudflare",
+          "asn": 13335
+        }
+      ],
+      "block": {
+        "resource": "104.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "104.16.0.0/12"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -11251,6 +13632,29 @@
     "domain": "horoscopo.bo",
     "alexaRank": "802677",
     "ipv4": "104.24.102.48",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "104.24.96.0/20",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "CLOUDFLARENET - Cloudflare",
+          "asn": 13335
+        }
+      ],
+      "block": {
+        "resource": "104.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "104.16.0.0/12"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -11350,6 +13754,27 @@
     "domain": "glo.bo",
     "alexaRank": "821466",
     "ipv4": "67.199.248.12",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "67.199.248.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "BITLY-AS - Bitly Inc",
+          "asn": 395224
+        }
+      ],
+      "block": {
+        "resource": "67.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "cname.bitly.com."
     ],
@@ -11516,6 +13941,30 @@
     "domain": "patrianueva.bo",
     "alexaRank": "825952",
     "ipv4": "190.129.90.46",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.80.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "La Paz",
@@ -11572,6 +14021,30 @@
     "domain": "uajms.edu.bo",
     "alexaRank": "832225",
     "ipv4": "200.87.27.235",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.87.16.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "200.87.0.0/16",
+        "200.87.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "Tarija",
@@ -11640,6 +14113,30 @@
     "domain": "planificacion.gob.bo",
     "alexaRank": "835881",
     "ipv4": "190.129.65.109",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.64.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "mail.planificacion.gob.bo.",
       "edge.planificacion.gob.bo."
@@ -11699,6 +14196,29 @@
     "domain": "fassil.com.bo",
     "alexaRank": "836067",
     "ipv4": "190.104.17.211",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.104.17.0/24",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Telefónica Celular de Bolivia S.A.",
+          "asn": 27882
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.104.16.0/22"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "SCZ-190-104-17-00211.tigo.bo."
     ],
@@ -11813,6 +14333,30 @@
     "domain": "senape.gob.bo",
     "alexaRank": "846129",
     "ipv4": "190.129.160.140",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.160.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.128.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "La Paz",
@@ -11881,6 +14425,27 @@
     "domain": "prodem.bo",
     "alexaRank": "849228",
     "ipv4": "45.4.99.16",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "45.4.99.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "BANCO PRODEM SA",
+          "asn": 265756
+        }
+      ],
+      "block": {
+        "resource": "45.4.0.0/14",
+        "name": "IANA Recovered Address Space Registry",
+        "desc": "This IP space was taken from IANA's recovered IPv4 pool in March 2015 and given to LACNIC (Source: IPv4 Recovered Address Space)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "45.4.99.16.prodem.bo."
     ],
@@ -11963,6 +14528,31 @@
     "domain": "umsa.edu.bo",
     "alexaRank": "849229",
     "ipv4": "200.87.114.130",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "200.87.112.0/21",
+      "actual_num_related": 3,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "200.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "200.87.0.0/16",
+        "200.87.0.0/17",
+        "200.87.112.0/20"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-200-87-114-130.entelnet.bo."
     ],
@@ -12027,6 +14617,27 @@
     "domain": "asfi.gob.bo",
     "alexaRank": "849511",
     "ipv4": "181.191.69.14",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "181.191.69.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AUTORIDAD DE SUPERVISIÓN DEL SISTEMA FINANCIERO (ASFI)",
+          "asn": 265779
+        }
+      ],
+      "block": {
+        "resource": "181.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "181.191.69.14.ASFI.gob.bo."
     ],
@@ -12152,6 +14763,27 @@
     "domain": "bolivia.gob.bo",
     "alexaRank": "849604",
     "ipv4": "166.114.1.45",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "166.114.1.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Ag para el Desarrollo de la Sociedad de la Inf en Bolivia - ADSIB",
+          "asn": 52250
+        }
+      ],
+      "block": {
+        "resource": "166.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "web.bolnet.bo."
     ],
@@ -12235,6 +14867,27 @@
     "domain": "fexpocruz.com.bo",
     "alexaRank": "849609",
     "ipv4": "18.214.221.79",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "18.208.0.0/13",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AMAZON-AES - Amazon.com",
+          "asn": 14618
+        }
+      ],
+      "block": {
+        "resource": "18.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "ec2-18-214-221-79.compute-1.amazonaws.com."
     ],
@@ -12413,6 +15066,29 @@
     "domain": "luo.bo",
     "alexaRank": "850962",
     "ipv4": "104.24.121.96",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "104.24.112.0/20",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "CLOUDFLARENET - Cloudflare",
+          "asn": 13335
+        }
+      ],
+      "block": {
+        "resource": "104.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "104.16.0.0/12"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "",
@@ -12499,6 +15175,30 @@
     "domain": "mindef.gob.bo",
     "alexaRank": "874995",
     "ipv4": "190.129.76.107",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.64.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "mail.mindef.gob.bo."
     ],
@@ -12569,6 +15269,29 @@
     "domain": "migracion.gob.bo",
     "alexaRank": "877122",
     "ipv4": "173.247.251.60",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "173.247.248.0/21",
+      "actual_num_related": 1,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "IMH-WEST - InMotion Hosting",
+          "asn": 22611
+        }
+      ],
+      "block": {
+        "resource": "173.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "173.247.224.0/19"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [],
     "maxmind": {
       "city": "Santa Monica",
@@ -12673,6 +15396,27 @@
     "domain": "granhotelcochabamba.com.bo",
     "alexaRank": "877426",
     "ipv4": "192.232.223.58",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "192.232.192.0/19",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "UNIFIEDLAYER-AS-1 - Unified Layer",
+          "asn": 46606
+        }
+      ],
+      "block": {
+        "resource": "192.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "boutiquew.co."
     ],
@@ -12815,6 +15559,22 @@
     "domain": "bg.com.bo",
     "alexaRank": "883321",
     "ipv4": "192.168.1.0",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": false,
+      "resource": "192.168.1.0",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [],
+      "block": {
+        "resource": "192.168.0.0/16",
+        "name": "IANA IPv4 Special Purpose Address Registry",
+        "desc": "Private-Use (according to [RFC1918]; date of allocation: February 1996; date of termination: n.a. "
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": false
+    },
     "ptr": [],
     "maxmind": {},
     "ipmap": {},
@@ -12825,6 +15585,27 @@
     "domain": "minculturas.gob.bo",
     "alexaRank": "885685",
     "ipv4": "50.87.211.62",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "50.87.0.0/16",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "UNIFIEDLAYER-AS-1 - Unified Layer",
+          "asn": 46606
+        }
+      ],
+      "block": {
+        "resource": "50.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "ARIN (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "50-87-211-62.unifiedlayer.com."
     ],
@@ -12967,6 +15748,27 @@
     "domain": "vipfe.gob.bo",
     "alexaRank": "889770",
     "ipv4": "190.181.4.146",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.181.4.0/24",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "AXS Bolivia S. A.",
+          "asn": 26210
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "static-190-181-4-146.acelerate.net."
     ],
@@ -13049,6 +15851,30 @@
     "domain": "mineria.gob.bo",
     "alexaRank": "890519",
     "ipv4": "190.129.70.195",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "190.129.64.0/20",
+      "actual_num_related": 2,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "Entel S.A. - EntelNet",
+          "asn": 6568
+        }
+      ],
+      "block": {
+        "resource": "190.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "LACNIC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [
+        "190.129.0.0/16",
+        "190.129.0.0/17"
+      ],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "dns1.mineria.gob.bo."
     ],
@@ -13107,6 +15933,27 @@
     "domain": "unefco.edu.bo",
     "alexaRank": "891890",
     "ipv4": "79.143.180.12",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "79.143.180.0/23",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "CONTABO - Contabo GmbH",
+          "asn": 51167
+        }
+      ],
+      "block": {
+        "resource": "79.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "RIPE NCC (Status: ALLOCATED)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "server.resellerb.com."
     ],
@@ -13195,6 +16042,27 @@
     "domain": "bancofie.com.bo",
     "alexaRank": "904645",
     "ipv4": "162.144.63.68",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "162.144.0.0/16",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "UNIFIEDLAYER-AS-1 - Unified Layer",
+          "asn": 46606
+        }
+      ],
+      "block": {
+        "resource": "162.0.0.0/8",
+        "name": "IANA IPv4 Address Space Registry",
+        "desc": "Administered by ARIN"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "server.lly.izb.mybluehost.me."
     ],
@@ -13337,6 +16205,27 @@
     "domain": "elalteno.com.bo",
     "alexaRank": "904703",
     "ipv4": "45.79.166.183",
+    "prefix": {
+      "query_time": "2018-11-01T16:00:00",
+      "is_less_specific": true,
+      "resource": "45.79.160.0/20",
+      "actual_num_related": 0,
+      "num_filtered_out": 0,
+      "asns": [
+        {
+          "holder": "LINODE-AP Linode",
+          "asn": 63949
+        }
+      ],
+      "block": {
+        "resource": "45.72.0.0/13",
+        "name": "IANA Recovered Address Space Registry",
+        "desc": "This IP space was taken from IANA's recovered IPv4 pool in March 2015 and given to ARIN (Source: IPv4 Recovered Address Space)"
+      },
+      "related_prefixes": [],
+      "type": "prefix",
+      "announced": true
+    },
     "ptr": [
       "li1265-183.members.linode.com."
     ],
