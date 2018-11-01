@@ -10,4 +10,4 @@ The list of ".bo" (Bolivia) domains in the 1 million popular websites from [Alex
 |          |                                                                 |
 | -------- | --------------------------------------------------------------- |
 | Copy URL | `{{ 'data/D007/dot_bo_domains_in_alexa.json' | absolute_url }}` |
-| Download | [JSON]({{ 'data/D007/dot_bo/domains_in_alexa.json'              | relative_url }}) |
+| Download | [JSON]({{ 'data/D007/dot_bo_domains_in_alexa.json'              | relative_url }}) |
