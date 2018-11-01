@@ -5,7 +5,7 @@ description: List of the .bo domains included in the 1 million most popular site
 date: 2018-11-01 8:00:04 -0400
 ---
 
-The list of ".bo" (Bolivia) domains in the 1 million popular websites from [Alexa](https://www.alexa.com/topsites/countries/BO), with network measurements made from a Entel connection (AS 6568, Bolivia) on 1 Nov 2018. Source: [DN Pedia](https://dnpedia.com/tlds/topm.php), 20181028)
+The list of ".bo" (Bolivia) domains in the 1 million popular websites from [Alexa](https://www.alexa.com/topsites/countries/BO), with network measurements made from a Entel connection (AS 6568, Bolivia) on 1 Nov 2018. Source: [DN Pedia](https://dnpedia.com/tlds/topm.php), 20181031)
 
 |          |                                                                 |
 | -------- | --------------------------------------------------------------- |
