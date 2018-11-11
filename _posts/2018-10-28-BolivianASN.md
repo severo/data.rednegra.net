@@ -7,7 +7,7 @@ date: 2018-10-28 8:00:00 -0400
 
 The list of autonomous systems numbers for Bolivia at 28 Oct 2018 (source: [cc2asn](https://www.cc2asn.com/data/bo_asn), 20181028)
 
-More complete and synthetized data are available in [D011 - Bolivian Internet actors]({{ '2018-11-11-InternetActorsInBolivia.md' | absolute_url }})
+More complete and synthetized data are available in [D011 - Bolivian Internet actors]({{ site.baseurl }}{% post_url 2018-11-11-InternetActorsInBolivia %}).
 
 |          |                                               |
 | -------- | --------------------------------------------- |
