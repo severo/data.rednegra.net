@@ -2,7 +2,7 @@
 layout: post
 title: D011 - Bolivian Internet actors
 description: Entities registered as Bolivian in LACNIC registry, and the list of their resources (IPv4 and IPv6 prefixes, and ASN)
-date: 2018-11-11 8:00:00 -0400
+date: 2018-11-11 4:00:00 -0400
 ---
 
 The list of LACNIC resources assigned to Bolivian entities, and the detail of these entities. The data have been created on 10 Nov 2018 using this [set of scripts](https://framagit.org/severo/20181110_actores_internet_bolivia), and is based on data from [CC2ASN](http://cc2asn.com/) and [the LACNIC RDAP service](https://rdap-web.lacnic.net/).
