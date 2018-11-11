@@ -7,6 +7,8 @@ date: 2018-10-28 8:00:03 -0400
 
 The list of registrant of a resource in LACNIC for Bolivia at 28 Oct 2018 (source: [data.rednegra.net](https://data.rednegra.net/2018/10/28/BolivianASN.html), 20181028)
 
+More complete and synthetized data are available in [D011 - Bolivia records in LACNIC registry]({{ site.baseurl }}{% post_url 2018-11-11-BolivianRecordsInLACNICRegistry %}).
+
 |          |                                                       |
 | -------- | ----------------------------------------------------- |
 | Copy URL | `{{ 'data/D005/bo_registrants.txt' | absolute_url }}` |

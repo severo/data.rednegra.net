@@ -1,6 +1,6 @@
 ---
 layout: post
-title: D011 - Bolivian Internet actors
+title: D011 - Bolivian records in LACNIC registry
 description: Entities registered as Bolivian in LACNIC registry, and the list of their resources (IPv4 and IPv6 prefixes, and ASN)
 date: 2018-11-11 4:00:00 -0400
 ---
@@ -53,7 +53,7 @@ Methodology and posible limitations:
 | Copy URL | `{{ 'data/D011/ipv4List.txt' | absolute_url }}` |
 | Download | [TXT]({{ 'data/D011/ipv4List.txt'               | relative_url }}) |
 
-- detailed information about IPv4 prrefixes holded by Bolivian entities:
+- detailed information about IPv4 prefixes holded by Bolivian entities:
 
 |          |                                                  |
 | -------- | ------------------------------------------------ |
@@ -69,7 +69,7 @@ Methodology and posible limitations:
 | Copy URL | `{{ 'data/D011/ipv6List.txt' | absolute_url }}` |
 | Download | [TXT]({{ 'data/D011/ipv6List.txt'               | relative_url }}) |
 
-- detailed information about IPv6 prrefixes holded by Bolivian entities:
+- detailed information about IPv6 prefixes holded by Bolivian entities:
 
 |          |                                                  |
 | -------- | ------------------------------------------------ |
