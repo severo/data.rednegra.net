@@ -1,0 +1,4774 @@
+[
+  {
+    "objectClassName": "ip network",
+    "handle": "2001:1378::/32",
+    "startAddress": "2001:1378::",
+    "endAddress": "2001:1378:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-RBCD2-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "Ag para el Desarrollo de la Sociedad de la Inf en Bolivia - ADSIB"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-RBCD2-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-RBCD2-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "IRM2",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/IRM2",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/IRM2"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2005-07-06T15:00:00Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2005-07-06T15:00:00Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2001:1378::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2001:1378::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2800:320::/32",
+    "startAddress": "2800:320::",
+    "endAddress": "2800:320:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-TCBS1-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "Telefónica Celular de Bolivia S.A."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-TCBS1-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-TCBS1-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "NEF4",
+        "roles": [
+          "technical"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/NEF4",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/NEF4"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "TBA2",
+        "roles": [
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/TBA2",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/TBA2"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2009-03-16T23:03:07Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2013-01-09T16:16:53Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2800:320::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2800:320::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2800:390::/32",
+    "startAddress": "2800:390::",
+    "endAddress": "2800:390:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-COLT-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "COTAS LTDA."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-COLT-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-COLT-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "GFA",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/GFA",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/GFA"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2009-07-06T22:09:49Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2009-07-06T22:09:49Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2800:390::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2800:390::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2800:88::/32",
+    "startAddress": "2800:88::",
+    "endAddress": "2800:88:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-ACBS1-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "AXS Bolivia S. A."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-ACBS1-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-ACBS1-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "ANM2",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/ANM2",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/ANM2"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2006-09-15T15:00:00Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2006-09-15T15:00:00Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2800:88::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2800:88::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2800:cd0::/32",
+    "startAddress": "2800:cd0::",
+    "endAddress": "2800:cd0:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-ESEN-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "Entel S.A. - EntelNet"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-ESEN-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-ESEN-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "MIL",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/MIL",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/MIL"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2012-01-13T20:43:13Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2012-01-13T20:43:13Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2800:cd0::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2800:cd0::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:0:170::/48",
+    "startAddress": "2801:0:170::",
+    "endAddress": "2801:0:170:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-JACO-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "Jalasoft Corp."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-JACO-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-JACO-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "GPO",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/GPO",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/GPO"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2011-09-16T20:00:12Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2011-09-16T20:00:12Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:0:170::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:0:170::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:104::/40",
+    "startAddress": "2801:104::",
+    "endAddress": "2801:104:ff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-UMSA-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "UNIVERSIDAD MAYOR DE SAN ANDRES"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-UMSA-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-UMSA-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "UMA2",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/UMA2",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/UMA2"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2016-11-15T20:26:51Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2016-11-15T20:26:51Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:104::/40",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:104::/40"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:10:5000::/48",
+    "startAddress": "2801:10:5000::",
+    "endAddress": "2801:10:5000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-ANHA-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "Agencia Nacional de Hidrocarburos"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-ANHA-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-ANHA-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "ALM197",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/ALM197",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/ALM197"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2016-08-03T20:00:05Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2016-08-03T20:00:05Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:10:5000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:10:5000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:12:1000::/48",
+    "startAddress": "2801:12:1000::",
+    "endAddress": "2801:12:1000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-BMSC-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "BANCO MERCANTIL SANTA CRUZ S.A."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-BMSC-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-BMSC-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "ROV39",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/ROV39",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/ROV39"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2015-10-05T17:10:39Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2015-10-05T17:10:39Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:12:1000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:12:1000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:12:d000::/48",
+    "startAddress": "2801:12:d000::",
+    "endAddress": "2801:12:d000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-BCBS3-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "BANCO DE CREDITO DE BOLIVIA S.A."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-BCBS3-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-BCBS3-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "GGC12",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/GGC12",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/GGC12"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2017-02-08T18:57:22Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2017-02-08T18:57:22Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:12:d000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:12:d000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:13:3000::/48",
+    "startAddress": "2801:13:3000::",
+    "endAddress": "2801:13:3000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-ASSF-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "AUTORIDAD DE SUPERVISIÓN DEL SISTEMA FINANCIERO (ASFI)"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-ASSF-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-ASSF-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "RYA4",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/RYA4",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/RYA4"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2017-07-31T16:38:58Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2017-07-31T16:38:58Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:13:3000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:13:3000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:14:6000::/48",
+    "startAddress": "2801:14:6000::",
+    "endAddress": "2801:14:6000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-USFX-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "UNIVERSIDAD SAN FRANCISCO XAVIER DE CHUQUISACA"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-USFX-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-USFX-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "FAA51",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/FAA51",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/FAA51"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2014-10-10T17:10:43Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2014-10-10T17:10:43Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:14:6000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:14:6000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:14:c000::/48",
+    "startAddress": "2801:14:c000::",
+    "endAddress": "2801:14:c000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-ARYF-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "AUTORIDAD DE REGULACIÓN Y FISCALIZACIÓN DE TELECOMUNICACIONES Y TRANSPORTES"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-ARYF-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-ARYF-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "BHR2",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BHR2",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BHR2"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2013-11-22T18:53:59Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2013-11-22T18:53:59Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:14:c000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:14:c000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:16:9000::/48",
+    "startAddress": "2801:16:9000::",
+    "endAddress": "2801:16:9000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-BSSA-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "BANCO SOLIDARIO S.A."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-BSSA-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-BSSA-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "JPV5",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/JPV5",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/JPV5"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2016-04-06T21:42:51Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2016-04-06T21:42:51Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:16:9000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:16:9000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:17:7000::/48",
+    "startAddress": "2801:17:7000::",
+    "endAddress": "2801:17:7000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-BUSA-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "BANCO UNIÓN S.A."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-BUSA-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-BUSA-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "CEB47",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/CEB47",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/CEB47"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2018-05-17T21:48:20Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2018-05-17T21:48:20Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:17:7000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:17:7000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:18:7000::/48",
+    "startAddress": "2801:18:7000::",
+    "endAddress": "2801:18:7000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-BFSA-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "BANCO PARA EL FOMENTO A INICIATIVAS ECONOMICAS S.A."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-BFSA-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-BFSA-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "RUM21",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/RUM21",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/RUM21"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2018-02-05T19:10:03Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2018-02-05T19:10:03Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:18:7000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:18:7000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:18:a000::/48",
+    "startAddress": "2801:18:a000::",
+    "endAddress": "2801:18:a000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-GAML-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "GOBIERNO AUTÓNOMO MUNICIPAL DE LA PAZ"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-GAML-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-GAML-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "LQQ2",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/LQQ2",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/LQQ2"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2014-07-03T22:32:13Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2014-07-03T22:32:13Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:18:a000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:18:a000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:18:d000::/48",
+    "startAddress": "2801:18:d000::",
+    "endAddress": "2801:18:d000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-SINA2-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "Servicio de Impuestos Nacionales"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-SINA2-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-SINA2-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "GOR15",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/GOR15",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/GOR15"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2017-01-17T16:21:23Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2017-01-17T16:21:23Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:18:d000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:18:d000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:19:a000::/48",
+    "startAddress": "2801:19:a000::",
+    "endAddress": "2801:19:a000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-UCBO-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "UNIVERSIDAD CATÓLICA BOLIVIANA SAN PABLO"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-UCBO-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-UCBO-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "LFC38",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/LFC38",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/LFC38"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2014-08-01T17:33:27Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2014-08-01T17:33:27Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:19:a000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:19:a000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:19:d000::/48",
+    "startAddress": "2801:19:d000::",
+    "endAddress": "2801:19:d000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-BNBO1-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "BANCO NACIONAL DE BOLIVIA S.A."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-BNBO1-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-BNBO1-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "LZF2",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/LZF2",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/LZF2"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2017-03-09T20:43:45Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2017-03-09T20:43:45Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:19:d000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:19:d000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:1a:7000::/48",
+    "startAddress": "2801:1a:7000::",
+    "endAddress": "2801:1a:7000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-ICBS-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "INVERSIONES CREDICORP BOLIVIA S.A."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-ICBS-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-ICBS-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "REG35",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/REG35",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/REG35"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2018-03-01T00:11:44Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2018-03-01T00:11:44Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:1a:7000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:1a:7000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2801:1d:d000::/48",
+    "startAddress": "2801:1d:d000::",
+    "endAddress": "2801:1d:d000:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "assigned",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-FFPP18-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "BANCO PRODEM SA"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-FFPP18-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-FFPP18-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "PAG61",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/PAG61",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/PAG61"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2017-03-28T21:53:47Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2017-03-28T21:53:47Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2801:1d:d000::/48",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2801:1d:d000::/48"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:1180::/32",
+    "startAddress": "2803:1180::",
+    "endAddress": "2803:1180:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-DIWO-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "DIGITAL WORK"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-DIWO-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-DIWO-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "ROM122",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/ROM122",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/ROM122"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2014-05-30T17:08:57Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2014-05-30T17:08:57Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:1180::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:1180::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:1920::/32",
+    "startAddress": "2803:1920::",
+    "endAddress": "2803:1920:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "266671",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-COSR5-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "CONFIARED S.R.L."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-COSR5-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-COSR5-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "BHR3",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BHR3",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BHR3"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2017-12-12T23:59:23Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2017-12-12T23:59:23Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:1920::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:1920::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:2880::/32",
+    "startAddress": "2803:2880::",
+    "endAddress": "2803:2880:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "262159",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-DTCE1-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "Digital TV CABLE DE EDMUND S.R.L."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-DTCE1-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-DTCE1-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "DAG48",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/DAG48",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/DAG48"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2013-09-25T16:24:40Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2013-09-25T16:24:40Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:2880::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:2880::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:3820::/32",
+    "startAddress": "2803:3820::",
+    "endAddress": "2803:3820:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-CICA-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "CIDIS CAMIRI"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-CICA-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-CICA-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "PAM120",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/PAM120",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/PAM120"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2017-09-05T20:40:32Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2017-09-05T20:40:32Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:3820::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:3820::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:38c0::/32",
+    "startAddress": "2803:38c0::",
+    "endAddress": "2803:38c0:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-ABES-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "AGENCIA BOLIVIANA ESPACIAL"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-ABES-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-ABES-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "SAG27",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/SAG27",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/SAG27"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2016-10-04T23:44:32Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2017-01-09T17:28:45Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:38c0::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:38c0::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:3e20::/32",
+    "startAddress": "2803:3e20::",
+    "endAddress": "2803:3e20:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-CVCS-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "CORPORACION VISTA COBIJA S.R.L."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-CVCS-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-CVCS-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "ROC154",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/ROC154",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/ROC154"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2017-11-20T19:42:09Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2017-11-20T19:42:09Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:3e20::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:3e20::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:3ea0::/32",
+    "startAddress": "2803:3ea0::",
+    "endAddress": "2803:3ea0:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-STSR-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "SIRIO TELECOMUNICACIONES S.R.L"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-STSR-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-STSR-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "JCM100",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/JCM100",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/JCM100"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2018-09-26T20:30:55Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2018-09-26T20:30:55Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:3ea0::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:3ea0::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:4380::/32",
+    "startAddress": "2803:4380::",
+    "endAddress": "2803:4380:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "61488",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-BOSR5-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "BOLITEL SRL"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-BOSR5-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-BOSR5-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "ETA",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/ETA",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/ETA"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2014-09-01T22:25:59Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2014-09-01T22:25:59Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:4380::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:4380::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:4ac0::/32",
+    "startAddress": "2803:4ac0::",
+    "endAddress": "2803:4ac0:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-CCRI-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "COTERI LTDA (Cooperativa de telefonos Riberalta Ltda)"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-CCRI-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-CCRI-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "ACP62",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/ACP62",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/ACP62"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2017-01-11T23:03:24Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2017-01-11T23:03:24Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:4ac0::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:4ac0::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:5700::/32",
+    "startAddress": "2803:5700::",
+    "endAddress": "2803:5700:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-NPBS-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "Nuevatel PCS de Bolivia S.A."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-NPBS-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-NPBS-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "JCP10",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/JCP10",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/JCP10"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2013-06-18T17:35:50Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2013-06-18T17:35:50Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:5700::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:5700::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:5c00::/32",
+    "startAddress": "2803:5c00::",
+    "endAddress": "2803:5c00:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-CTOL-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "Cooperativa de Telecomunicaciones Oruro Ltda - COTEOR"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-CTOL-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-CTOL-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "OPP",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/OPP",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/OPP"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2012-05-14T22:13:24Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2012-05-14T22:13:24Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:5c00::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:5c00::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:5e00::/32",
+    "startAddress": "2803:5e00::",
+    "endAddress": "2803:5e00:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-COLT7-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "COTAP LTDA"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-COLT7-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-COLT7-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "JHG5",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/JHG5",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/JHG5"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2012-09-13T23:44:22Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2012-09-13T23:44:22Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:5e00::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:5e00::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:7680::/32",
+    "startAddress": "2803:7680::",
+    "endAddress": "2803:7680:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-MEGA-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "MegaLink"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-MEGA-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-MEGA-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "JAG",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/JAG",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/JAG"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2014-05-02T15:47:42Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2014-05-02T15:47:42Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:7680::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:7680::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:8ec0::/32",
+    "startAddress": "2803:8ec0::",
+    "endAddress": "2803:8ec0:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-COLT4-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "COTES Ltda."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-COLT4-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-COLT4-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "OSG3",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/OSG3",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/OSG3"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2017-03-03T18:33:28Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2017-03-03T18:33:28Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:8ec0::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:8ec0::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:9400::/32",
+    "startAddress": "2803:9400::",
+    "endAddress": "2803:9400:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-COLT2-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "Comteco Ltda"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-COLT2-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-COLT2-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "MAP27",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/MAP27",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/MAP27"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2012-04-04T19:32:44Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2016-01-06T16:16:19Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:9400::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:9400::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:e120::/32",
+    "startAddress": "2803:e120::",
+    "endAddress": "2803:e120:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-BSSR-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "BIOS SYSTEM SRL"
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-BSSR-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-BSSR-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "OSM33",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/OSM33",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/OSM33"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2017-11-28T21:23:57Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2017-11-28T21:23:57Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:e120::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:e120::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  },
+  {
+    "objectClassName": "ip network",
+    "handle": "2803:fa00::/32",
+    "startAddress": "2803:fa00::",
+    "endAddress": "2803:fa00:ffff:ffff:ffff:ffff:ffff:ffff",
+    "ipVersion": "v6",
+    "type": "allocated",
+    "originAutnum": "N/A",
+    "entities": [
+      {
+        "objectClassName": "entity",
+        "handle": "BO-COLT5-LACNIC",
+        "vcardArray": [
+          "vcard",
+          [
+            [
+              "version",
+              {},
+              "text",
+              "4.0"
+            ],
+            [
+              "fn",
+              {},
+              "text",
+              "Cotel Ltda."
+            ],
+            [
+              "kind",
+              {},
+              "text",
+              "individual"
+            ]
+          ]
+        ],
+        "roles": [
+          "registrant"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/BO-COLT5-LACNIC",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/BO-COLT5-LACNIC"
+          }
+        ]
+      },
+      {
+        "objectClassName": "entity",
+        "handle": "JLV3",
+        "roles": [
+          "technical",
+          "abuse"
+        ],
+        "links": [
+          {
+            "value": "https://rdap.lacnic.net/rdap/entity/JLV3",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.lacnic.net/rdap/entity/JLV3"
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "eventAction": "registration",
+        "eventDate": "2012-07-30T17:34:54Z"
+      },
+      {
+        "eventAction": "last changed",
+        "eventDate": "2012-07-30T17:34:54Z"
+      }
+    ],
+    "links": [
+      {
+        "value": "https://rdap.lacnic.net/rdap/ip/2803:fa00::/32",
+        "rel": "self",
+        "type": "application/rdap+json",
+        "href": "https://rdap.lacnic.net/rdap/ip/2803:fa00::/32"
+      }
+    ],
+    "rdapConformance": [
+      "rdap_level_0"
+    ],
+    "notices": [
+      {
+        "title": "RDAP Cache",
+        "description": [
+          "This object is stored in a temporary cache.",
+          "Rdap objects may take up to 4 hours to refresh."
+        ]
+      },
+      {
+        "title": "Terms and Conditions",
+        "description": [
+          "Terms and Conditions."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "href": "https://www.lacnic.net/rdap-terms-and-conditions",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "title": "Privacy policy",
+        "description": [
+          "Privacy policy."
+        ],
+        "links": [
+          {
+            "value": "https://www.lacnic.net/privacy-policy",
+            "href": "https://www.lacnic.net/privacy-policy",
+            "type": "text/html"
+          }
+        ]
+      }
+    ],
+    "port43": "whois.lacnic.net"
+  }
+]
