@@ -1,0 +1,658 @@
+[
+  {
+    "asn": "AS12252",
+    "info": {
+      "resource": "12252",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "12252",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "America Movil Peru S.A.C.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS12956",
+    "info": {
+      "resource": "12956",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "12557-13223",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by RIPE NCC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "TELEFONICA - Telefonica International Wholesale Services II, S.L.U.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS1299",
+    "info": {
+      "resource": "1299",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "1299-1309",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by RIPE NCC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "TELIANET - Telia Company AB",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS22541",
+    "info": {
+      "resource": "22541",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "22541",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "MegaLink",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS25620",
+    "info": {
+      "resource": "25620",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "25620",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "COTAS LTDA.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS26210",
+    "info": {
+      "resource": "26210",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "26210",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "AXS Bolivia S. A.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS262159",
+    "info": {
+      "resource": "262159",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "262144-263167",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "Digital TV CABLE DE EDMUND S.R.L.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS263097",
+    "info": {
+      "resource": "263097",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "262144-263167",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "BRAVA TELECOMUNICAÇÕES BRASILIA LTDA.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS263242",
+    "info": {
+      "resource": "263242",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "263168-263679",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "DIGITAL WORK",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS263474",
+    "info": {
+      "resource": "263474",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "263168-263679",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "VerdeNET TELECOM",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS263709",
+    "info": {
+      "resource": "263709",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "263680-264604",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "UNIVERSIDAD SAN FRANCISCO XAVIER DE CHUQUISACA",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS264612",
+    "info": {
+      "resource": "264612",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "264605-265628",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "BANCO MERCANTIL SANTA CRUZ S.A.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS264690",
+    "info": {
+      "resource": "264690",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "264605-265628",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "BANCO SOLIDARIO S.A.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS264747",
+    "info": {
+      "resource": "264747",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "264605-265628",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "Agencia Nacional de Hidrocarburos",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS264789",
+    "info": {
+      "resource": "264789",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "264605-265628",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "AGENCIA BOLIVIANA ESPACIAL",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS264858",
+    "info": {
+      "resource": "264858",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "264605-265628",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "Servicio de Impuestos Nacionales",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS265756",
+    "info": {
+      "resource": "265756",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "265629-266652",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "BANCO PRODEM SA",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS265779",
+    "info": {
+      "resource": "265779",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "265629-266652",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "AUTORIDAD DE SUPERVISIÓN DEL SISTEMA FINANCIERO (ASFI)",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS265814",
+    "info": {
+      "resource": "265814",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "265629-266652",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "CIDIS CAMIRI",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS265880",
+    "info": {
+      "resource": "265880",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "265629-266652",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "CORPORACION VISTA COBIJA S.R.L.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS266658",
+    "info": {
+      "resource": "266658",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "266653-267676",
+        "name": "IANA 32-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "BIOS SYSTEM SRL",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS27714",
+    "info": {
+      "resource": "27714",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "27648-28671",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "Unete Telecomunicaciones Ltda.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS27828",
+    "info": {
+      "resource": "27828",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "27648-28671",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "UNIVERSIDAD MAYOR DE SAN ANDRES",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS27839",
+    "info": {
+      "resource": "27839",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "27648-28671",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "Comteco Ltda",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS27882",
+    "info": {
+      "resource": "27882",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "27648-28671",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "Telefónica Celular de Bolivia S.A.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS28024",
+    "info": {
+      "resource": "28024",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "27648-28671",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "Nuevatel PCS de Bolivia S.A.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS28032",
+    "info": {
+      "resource": "28032",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "27648-28671",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "INTERNEXA PERU S.A",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS2914",
+    "info": {
+      "resource": "2914",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "2908-2914",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by ARIN"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "NTT-COMMUNICATIONS-2914 - NTT America",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS3356",
+    "info": {
+      "resource": "3356",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "3354-3356",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by ARIN"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "LEVEL3 - Level 3 Parent",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS3549",
+    "info": {
+      "resource": "3549",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "3549",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by ARIN"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "LVLT-3549 - Level 3 Parent",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS52250",
+    "info": {
+      "resource": "52250",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "52224-53247",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "Ag para el Desarrollo de la Sociedad de la Inf en Bolivia - ADSIB",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS52355",
+    "info": {
+      "resource": "52355",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "52224-53247",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "Jalasoft Corp.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS52495",
+    "info": {
+      "resource": "52495",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "52224-53247",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "Cotel Ltda.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS52501",
+    "info": {
+      "resource": "52501",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "52224-53247",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "Newcom Nicaragua",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS61458",
+    "info": {
+      "resource": "61458",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "61440-61951",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "GOBIERNO AUTÓNOMO MUNICIPAL DE LA PAZ",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS61475",
+    "info": {
+      "resource": "61475",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "61440-61951",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "UNIVERSIDAD CATÓLICA BOLIVIANA SAN PABLO",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS61488",
+    "info": {
+      "resource": "61488",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "61440-61951",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "BOLITEL SRL",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS6453",
+    "info": {
+      "resource": "6453",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "6430-6457",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by ARIN"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "AS6453 - TATA COMMUNICATIONS (AMERICA) INC",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS6568",
+    "info": {
+      "resource": "6568",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "6568",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by LACNIC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "Entel S.A. - EntelNet",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS6762",
+    "info": {
+      "resource": "6762",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "6714-6878",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by RIPE NCC"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "SEABONE-NET - TELECOM ITALIA SPARKLE S.p.A.",
+      "announced": true
+    }
+  },
+  {
+    "asn": "AS701",
+    "info": {
+      "resource": "701",
+      "type": "as",
+      "query_starttime": "2018-11-12T16:00:00",
+      "block": {
+        "resource": "698-708",
+        "name": "IANA 16-bit Autonomous System (AS) Numbers Registry",
+        "desc": "Assigned by ARIN"
+      },
+      "query_endtime": "2018-11-12T16:00:00",
+      "holder": "UUNET - MCI Communications Services",
+      "announced": true
+    }
+  }
+]
