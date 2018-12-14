@@ -1,4 +1,4 @@
-"CODIGO_IBGE",">2ppb","=2ppb","1ppb<x<2ppb","=1ppb","0.1ppb<x<1ppb","=0.1ppb","0ppb<x<0.1ppb","=0ppb","all Detections","all Measurements","population","stateLettersCode","municipalityName"
+"ibgeCode",">2ppb","=2ppb","1ppb<x<2ppb","=1ppb","0.1ppb<x<1ppb","=0.1ppb","0ppb<x<0.1ppb","=0ppb","all Detections","all Measurements","population","stateLettersCode","municipalityName"
 110012,0,0,0,0,0,1,0,0,1,1,132667,"RO","Ji-Paraná"
 170215,0,0,0,0,0,0,1,0,1,1,5645,"TO","Araguanã"
 171670,0,0,0,0,0,0,0,1,1,1,8409,"TO","Colméia"
